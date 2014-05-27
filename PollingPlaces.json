@@ -10,7 +10,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hampstead Hill Academy"
+                "Name": "Hampstead Hill Academy",
+                "Address": "500 S Linwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -23,7 +24,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 5"
+                "Name": "Engine House No. 5",
+                "Address": "2120 Eastern Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hampstead Hill Academy"
+                "Name": "Hampstead Hill Academy",
+                "Address": "500 S Linwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +52,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Brigid's Church"
+                "Name": "St. Brigid's Church",
+                "Address": "900 S East Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +66,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hatton Senior Citizens Center"
+                "Name": "Hatton Senior Citizens Center",
+                "Address": "2825 Fait Avenue"
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +80,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "General Wolfe Elementary"
+                "Name": "General Wolfe Elementary",
+                "Address": "245 S Wolfe St"
             },
             "geometry": {
                 "type": "Point",
@@ -88,7 +94,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "General Wolfe Elementary"
+                "Name": "General Wolfe Elementary",
+                "Address": "245 S Wolfe St"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lemko House"
+                "Name": "Lemko House",
+                "Address": "603 S Ann St"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +122,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore Freedom Academy"
+                "Name": "Baltimore Freedom Academy",
+                "Address": "1601 E Lombard St"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +136,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Leo's Church Hall"
+                "Name": "St. Leo's Church Hall",
+                "Address": "225 S Exeter St"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Charles Twin Tower Apartme"
+                "Name": "Charles Twin Tower Apartme",
+                "Address": "222 N Charles St"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +164,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Steadman Fire Station"
+                "Name": "Steadman Fire Station",
+                "Address": "15 S Eutaw St"
             },
             "geometry": {
                 "type": "Point",
@@ -166,7 +178,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Murty Center-Poe Auditorium"
+                "Name": "Murty Center-Poe Auditorium",
+                "Address": "206 N Fremont Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +192,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Pleasant View Gardens"
+                "Name": "Pleasant View Gardens",
+                "Address": "201 N Aisquith St"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +206,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Monument East Apartments"
+                "Name": "Monument East Apartments",
+                "Address": "633 Asquith St"
             },
             "geometry": {
                 "type": "Point",
@@ -205,7 +220,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "William Paca Elementary"
+                "Name": "William Paca Elementary",
+                "Address": "200 N Lakewood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +234,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Commodore John Rogers Elem"
+                "Name": "Commodore John Rogers Elem",
+                "Address": "100 N Chester St"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +248,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Commodore John Rogers Elem"
+                "Name": "Commodore John Rogers Elem",
+                "Address": "100 N Chester St"
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +262,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Commodore John Rogers Elem"
+                "Name": "Commodore John Rogers Elem",
+                "Address": "100 N Chester St"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +276,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "William Paca Elementary"
+                "Name": "William Paca Elementary",
+                "Address": "200 N Lakewood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +290,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Tench Tilghman Elementary"
+                "Name": "Tench Tilghman Elementary",
+                "Address": "600 N PattersonPark Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +304,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Tench Tilghman Elementary"
+                "Name": "Tench Tilghman Elementary",
+                "Address": "600 N PattersonPark Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +318,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "William Paca Elementary"
+                "Name": "William Paca Elementary",
+                "Address": "200 N Lakewood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +332,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Maryland State Boychoir Center for the Arts"
+                "Name": "The Maryland State Boychoir Center for the Arts",
+                "Address": "3400 Norman Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +346,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Maryland State Boychoir Center for the Arts"
+                "Name": "The Maryland State Boychoir Center for the Arts",
+                "Address": "3400 Norman Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -335,7 +360,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Catholic High School"
+                "Name": "Catholic High School",
+                "Address": "2800 Edison Highway"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +374,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harford Heights Elementary"
+                "Name": "Harford Heights Elementary",
+                "Address": "1919 N Broadway"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +388,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harford Heights Elementary"
+                "Name": "Harford Heights Elementary",
+                "Address": "1919 N Broadway"
             },
             "geometry": {
                 "type": "Point",
@@ -374,7 +402,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Dr. Bernard Harris Sr. Elem"
+                "Name": "Dr. Bernard Harris Sr. Elem",
+                "Address": "1400 N Caroline St"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +416,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Collington Square Rec Center"
+                "Name": "Collington Square Rec Center",
+                "Address": "1409 Collington Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +430,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Maryland State Boychoir Center for the Arts"
+                "Name": "The Maryland State Boychoir Center for the Arts",
+                "Address": "3400 Norman Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -413,7 +444,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Maryland State Boychoir Center for the Arts"
+                "Name": "The Maryland State Boychoir Center for the Arts",
+                "Address": "3400 Norman Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +458,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Forth Worthington Elementary"
+                "Name": "Forth Worthington Elementary",
+                "Address": "2701 E Oliver St"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +472,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lakewood Elementary"
+                "Name": "Lakewood Elementary",
+                "Address": "2625 E Federal St"
             },
             "geometry": {
                 "type": "Point",
@@ -452,7 +486,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Church of the Redeemed of God"
+                "Name": "Church of the Redeemed of God",
+                "Address": "4321 Old York Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Ellerslie Apartments"
+                "Name": "Ellerslie Apartments",
+                "Address": "601 Wyanoke Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +514,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waverly Elem/Middle"
+                "Name": "Waverly Elem/Middle",
+                "Address": "3400 Ellerslie Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +528,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waverly Elem/Middle"
+                "Name": "Waverly Elem/Middle",
+                "Address": "3400 Ellerslie Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +542,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mergenthaler Vo Tech High"
+                "Name": "Mergenthaler Vo Tech High",
+                "Address": "3500 Hillen Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +556,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mergenthaler Vo Tech High"
+                "Name": "Mergenthaler Vo Tech High",
+                "Address": "3500 Hillen Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -530,7 +570,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Montebello Elementary"
+                "Name": "Montebello Elementary",
+                "Address": "2040 E. 32nd St"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +584,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mason Hall"
+                "Name": "Mason Hall",
+                "Address": "1640-44 Gorsuch Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +598,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Coldstream Park Elem/Middle"
+                "Name": "Coldstream Park Elem/Middle",
+                "Address": "1400 Exeter Hall Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +612,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 31"
+                "Name": "Engine House No. 31",
+                "Address": "3123 Greenmount Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -582,7 +626,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Coldstream Park Elem/Middle"
+                "Name": "Coldstream Park Elem/Middle",
+                "Address": "1400 Exeter Hall Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +640,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mason Hall"
+                "Name": "Mason Hall",
+                "Address": "1640-44 Gorsuch Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -608,7 +654,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Cecil Elementary"
+                "Name": "Cecil Elementary",
+                "Address": "2000 Cecil Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +668,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Cecil Elementary"
+                "Name": "Cecil Elementary",
+                "Address": "2000 Cecil Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +682,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Oliver Multi-Purpose Center"
+                "Name": "Oliver Multi-Purpose Center",
+                "Address": "1400 E Federal St"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +696,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Johnston Square Elementary"
+                "Name": "Johnston Square Elementary",
+                "Address": "1101 Valley St"
             },
             "geometry": {
                 "type": "Point",
@@ -660,7 +710,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waters Tower"
+                "Name": "Waters Tower",
+                "Address": "1400 E Madison St"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +724,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Latrobe Homes"
+                "Name": "Latrobe Homes",
+                "Address": "900 E Madison St"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +738,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Johnston Square Elementary"
+                "Name": "Johnston Square Elementary",
+                "Address": "1101 Valley St"
             },
             "geometry": {
                 "type": "Point",
@@ -699,7 +752,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Chase House"
+                "Name": "Chase House",
+                "Address": "1027 Cathedral St"
             },
             "geometry": {
                 "type": "Point",
@@ -712,7 +766,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Chase House"
+                "Name": "Chase House",
+                "Address": "1027 Cathedral St"
             },
             "geometry": {
                 "type": "Point",
@@ -725,7 +780,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brown Memorial Church"
+                "Name": "Brown Memorial Church",
+                "Address": "1316 Park Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -738,7 +794,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "McCulloh Homes"
+                "Name": "McCulloh Homes",
+                "Address": "501 Dolphin St"
             },
             "geometry": {
                 "type": "Point",
@@ -751,7 +808,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Chase House"
+                "Name": "Chase House",
+                "Address": "1027 Cathedral St"
             },
             "geometry": {
                 "type": "Point",
@@ -764,7 +822,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Central Library"
+                "Name": "Central Library",
+                "Address": "400 Cathedral St"
             },
             "geometry": {
                 "type": "Point",
@@ -777,7 +836,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waxter Center"
+                "Name": "Waxter Center",
+                "Address": "1000 Cathedral St"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +850,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "1st English Lutheran Church"
+                "Name": "1st English Lutheran Church",
+                "Address": "3807 N Charles St"
             },
             "geometry": {
                 "type": "Point",
@@ -803,7 +864,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "1st English Lutheran Church"
+                "Name": "1st English Lutheran Church",
+                "Address": "3807 N Charles St"
             },
             "geometry": {
                 "type": "Point",
@@ -816,7 +878,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Greenmount School"
+                "Name": "The Greenmount School",
+                "Address": "501 W 30th St"
             },
             "geometry": {
                 "type": "Point",
@@ -829,7 +892,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waverly Elem/Middle Sch"
+                "Name": "Waverly Elem/Middle Sch",
+                "Address": "3400 Ellerslie Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Waverly Elem/Middle Sch"
+                "Name": "Waverly Elem/Middle Sch",
+                "Address": "3400 Ellerslie Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +920,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Barclay Elem/Middle"
+                "Name": "Barclay Elem/Middle",
+                "Address": "2900 Barclay St"
             },
             "geometry": {
                 "type": "Point",
@@ -868,7 +934,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Barclay Elem/Middle"
+                "Name": "Barclay Elem/Middle",
+                "Address": "2900 Barclay St"
             },
             "geometry": {
                 "type": "Point",
@@ -881,7 +948,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Margaret Brent Elementary"
+                "Name": "Margaret Brent Elementary",
+                "Address": "100 E 26th St"
             },
             "geometry": {
                 "type": "Point",
@@ -894,7 +962,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The Wyman House"
+                "Name": "The Wyman House",
+                "Address": "123 W 29th St"
             },
             "geometry": {
                 "type": "Point",
@@ -907,7 +976,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brentwood Apartments"
+                "Name": "Brentwood Apartments",
+                "Address": "401 E 25th St"
             },
             "geometry": {
                 "type": "Point",
@@ -920,7 +990,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The West Twenty Apartments"
+                "Name": "The West Twenty Apartments",
+                "Address": "11 W 20th St"
             },
             "geometry": {
                 "type": "Point",
@@ -933,7 +1004,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore Montessori Public Charter School #336"
+                "Name": "Baltimore Montessori Public Charter School #336",
+                "Address": "1600 Guilford Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -946,7 +1018,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Keswick Multi-Care Center"
+                "Name": "Keswick Multi-Care Center",
+                "Address": "700 W 40th St"
             },
             "geometry": {
                 "type": "Point",
@@ -959,7 +1032,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 21"
+                "Name": "Engine House No. 21",
+                "Address": "3724 Roland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -972,7 +1046,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Robert Poole Middle"
+                "Name": "Robert Poole Middle",
+                "Address": "1300 W 36th St"
             },
             "geometry": {
                 "type": "Point",
@@ -985,7 +1060,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Medfield Heights Elementary"
+                "Name": "Medfield Heights Elementary",
+                "Address": "4300 Buchanan Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -998,7 +1074,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Shiloh United Church Apostolic"
+                "Name": "Shiloh United Church Apostolic",
+                "Address": "2000 Druid Park Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -1011,7 +1088,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 52"
+                "Name": "Engine House No. 52",
+                "Address": "3525 Woodbrook Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1024,7 +1102,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Westside Elementary"
+                "Name": "Westside Elementary",
+                "Address": "2235 N Fulton Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1037,7 +1116,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Beth Am In Town Synagogue"
+                "Name": "Beth Am In Town Synagogue",
+                "Address": "2501 Eutaw Place"
             },
             "geometry": {
                 "type": "Point",
@@ -1050,7 +1130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lakeview Tower Apartments"
+                "Name": "Lakeview Tower Apartments",
+                "Address": "727 Druid Park Lake Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -1063,7 +1144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "John Eager Howard Elementary"
+                "Name": "John Eager Howard Elementary",
+                "Address": "2011 Linden Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1076,7 +1158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hampden Elementary"
+                "Name": "Hampden Elementary",
+                "Address": "3608 Chestnut Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1089,7 +1172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hampden Elementary"
+                "Name": "Hampden Elementary",
+                "Address": "3608 Chestnut Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mt. Royal Recreation Center"
+                "Name": "Mt. Royal Recreation Center",
+                "Address": "120 W Mosher St"
             },
             "geometry": {
                 "type": "Point",
@@ -1115,7 +1200,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mt. Royal Recreation Center"
+                "Name": "Mt. Royal Recreation Center",
+                "Address": "120 W Mosher St"
             },
             "geometry": {
                 "type": "Point",
@@ -1128,7 +1214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 13"
+                "Name": "Engine House No. 13",
+                "Address": "405 McMechen St"
             },
             "geometry": {
                 "type": "Point",
@@ -1141,7 +1228,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Eutaw Marshburn Elementary"
+                "Name": "Eutaw Marshburn Elementary",
+                "Address": "1624 Eutaw Place"
             },
             "geometry": {
                 "type": "Point",
@@ -1154,7 +1242,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Enoch Pratt Library Pennsylvania Ave Branch #17"
+                "Name": "Enoch Pratt Library Pennsylvania Ave Branch #17",
+                "Address": "1531 W North Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1167,7 +1256,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George McMechen Middle/Sr."
+                "Name": "George McMechen Middle/Sr.",
+                "Address": "4411 Garrison Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -1180,7 +1270,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Forest Park Senior High"
+                "Name": "Forest Park Senior High",
+                "Address": "3701 Eldorado Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1193,7 +1284,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Callaway Elementary"
+                "Name": "Callaway Elementary",
+                "Address": "3701 Fernhill Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,7 +1298,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Ashburton Elem/Middle"
+                "Name": "Ashburton Elem/Middle",
+                "Address": "3935 Hilton Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1219,7 +1312,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Ashburton Elem/Middle"
+                "Name": "Ashburton Elem/Middle",
+                "Address": "3935 Hilton Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1232,7 +1326,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gwyns Falls Elementary"
+                "Name": "Gwyns Falls Elementary",
+                "Address": "2700 Gwynns Falls Pkwy"
             },
             "geometry": {
                 "type": "Point",
@@ -1245,7 +1340,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hilton Elementary"
+                "Name": "Hilton Elementary",
+                "Address": "3301 Carlisle Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1258,7 +1354,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Liberty Grace Church of God"
+                "Name": "Liberty Grace Church of God",
+                "Address": "3400 Copley Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1271,7 +1368,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Liberty Elementary"
+                "Name": "Liberty Elementary",
+                "Address": "3901 Maine Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1382,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Windsor Hills Elementary"
+                "Name": "Windsor Hills Elementary",
+                "Address": "4001 Alto Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1297,7 +1396,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Edgewood Elementary"
+                "Name": "Edgewood Elementary",
+                "Address": "1900 Edgewood St"
             },
             "geometry": {
                 "type": "Point",
@@ -1310,7 +1410,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Library No. 8"
+                "Name": "Library No. 8",
+                "Address": "3203 W North Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1323,7 +1424,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Library No. 8"
+                "Name": "Library No. 8",
+                "Address": "3203 W North Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1336,7 +1438,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gwyns Falls Elementary"
+                "Name": "Gwyns Falls Elementary",
+                "Address": "2700 Gwynns Falls Pkwy"
             },
             "geometry": {
                 "type": "Point",
@@ -1349,7 +1452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Carver Voc. Tech High"
+                "Name": "Carver Voc. Tech High",
+                "Address": "2201 Presstman St"
             },
             "geometry": {
                 "type": "Point",
@@ -1362,7 +1466,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Carver Voc. Tech High"
+                "Name": "Carver Voc. Tech High",
+                "Address": "2201 Presstman St"
             },
             "geometry": {
                 "type": "Point",
@@ -1375,7 +1480,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Matthew Henson Elementary"
+                "Name": "Matthew Henson Elementary",
+                "Address": "1600 N Payson St"
             },
             "geometry": {
                 "type": "Point",
@@ -1388,7 +1494,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gilmor Elementary School #107"
+                "Name": "Gilmor Elementary School #107",
+                "Address": "1300 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1401,7 +1508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George G. Kelson Elem/Middle"
+                "Name": "George G. Kelson Elem/Middle",
+                "Address": "701 Gold St"
             },
             "geometry": {
                 "type": "Point",
@@ -1414,7 +1522,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Robert W. Coleman Elementary"
+                "Name": "Robert W. Coleman Elementary",
+                "Address": "2400 Windsor Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1427,7 +1536,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 52"
+                "Name": "Engine House No. 52",
+                "Address": "3525 Woodbrook Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1440,7 +1550,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Greenhill Housing"
+                "Name": "Greenhill Housing",
+                "Address": "2501 Violet Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,7 +1564,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Martin Luther King Elementary"
+                "Name": "Martin Luther King Elementary",
+                "Address": "3750 Greenspring Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1466,7 +1578,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwest Community Action Center"
+                "Name": "Northwest Community Action Center",
+                "Address": "3939 Reisterstown Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1479,7 +1592,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwest Community Action Center"
+                "Name": "Northwest Community Action Center",
+                "Address": "3939 Reisterstown Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1492,7 +1606,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harlem Park Elementary"
+                "Name": "Harlem Park Elementary",
+                "Address": "801 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1505,7 +1620,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harlem Park Elementary"
+                "Name": "Harlem Park Elementary",
+                "Address": "801 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1518,7 +1634,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harlem Park Elementary"
+                "Name": "Harlem Park Elementary",
+                "Address": "801 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1531,7 +1648,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harlem Park Elementary"
+                "Name": "Harlem Park Elementary",
+                "Address": "801 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1544,7 +1662,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gilmor Elementary School #107"
+                "Name": "Gilmor Elementary School #107",
+                "Address": "1300 N Stricker St"
             },
             "geometry": {
                 "type": "Point",
@@ -1557,7 +1676,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Calverton Middle"
+                "Name": "Calverton Middle",
+                "Address": "1100 Whitmore Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1570,7 +1690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Empowerment Academy"
+                "Name": "Empowerment Academy",
+                "Address": "851 Braddish Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1583,7 +1704,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Empowerment Academy"
+                "Name": "Empowerment Academy",
+                "Address": "851 Braddish Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1596,7 +1718,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Alexander Hamilton Elementary"
+                "Name": "Alexander Hamilton Elementary",
+                "Address": "800 Poplar Grove St"
             },
             "geometry": {
                 "type": "Point",
@@ -1609,7 +1732,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Friendship Preparatory Academy"
+                "Name": "Friendship Preparatory Academy",
+                "Address": "1100 Whitmore Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1622,7 +1746,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Rosemont Elementary"
+                "Name": "Rosemont Elementary",
+                "Address": "2777 Presstman St"
             },
             "geometry": {
                 "type": "Point",
@@ -1635,7 +1760,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Belmont Elementary"
+                "Name": "Belmont Elementary",
+                "Address": "1406 N Ellamont St"
             },
             "geometry": {
                 "type": "Point",
@@ -1648,7 +1774,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Bernadine's Hall"
+                "Name": "St. Bernadine's Hall",
+                "Address": "614 Mt Holly St"
             },
             "geometry": {
                 "type": "Point",
@@ -1661,7 +1788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lynhurst Elementary"
+                "Name": "Lynhurst Elementary",
+                "Address": "621 Wildwood Pkwy"
             },
             "geometry": {
                 "type": "Point",
@@ -1674,7 +1802,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "McCulloh Homes"
+                "Name": "McCulloh Homes",
+                "Address": "1102 Druid Hill Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1816,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Providence Insp. Baptist Church"
+                "Name": "Providence Insp. Baptist Church",
+                "Address": "850 Edmondson Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,7 +1830,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Greater Model Community Center"
+                "Name": "Greater Model Community Center",
+                "Address": "1051 W Saratoga St"
             },
             "geometry": {
                 "type": "Point",
@@ -1713,7 +1844,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "James McHenry"
+                "Name": "James McHenry",
+                "Address": "31 S Schroeder St"
             },
             "geometry": {
                 "type": "Point",
@@ -1726,7 +1858,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Franklin Square Elementary"
+                "Name": "Franklin Square Elementary",
+                "Address": "1400 W Lexington St"
             },
             "geometry": {
                 "type": "Point",
@@ -1739,7 +1872,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Steuart Hill Elem/Middle"
+                "Name": "Steuart Hill Elem/Middle",
+                "Address": "30 S Gilmor Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1752,7 +1886,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mary Ann Winterline Elementary"
+                "Name": "Mary Ann Winterline Elementary",
+                "Address": "220 N Bentalou St"
             },
             "geometry": {
                 "type": "Point",
@@ -1765,7 +1900,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Steuart Hill Elem/Middle"
+                "Name": "Steuart Hill Elem/Middle",
+                "Address": "30 S Gilmor St"
             },
             "geometry": {
                 "type": "Point",
@@ -1778,7 +1914,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Frederick Elementary"
+                "Name": "Frederick Elementary",
+                "Address": "2501 Frederick Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1791,7 +1928,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Voting Machine Warehouse"
+                "Name": "Voting Machine Warehouse",
+                "Address": "301 N Franklintown Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1804,7 +1942,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hilton Recreation Center"
+                "Name": "Hilton Recreation Center",
+                "Address": "2950 Phelps Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -1817,7 +1956,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mary E. Rodman Recreation Cntr"
+                "Name": "Mary E. Rodman Recreation Cntr",
+                "Address": "3600 W Mulberry St"
             },
             "geometry": {
                 "type": "Point",
@@ -1830,7 +1970,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Sarah M. Roach Elementary"
+                "Name": "Sarah M. Roach Elementary",
+                "Address": "3434 Old Frederick Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1843,7 +1984,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Sarah M. Roach Elementary"
+                "Name": "Sarah M. Roach Elementary",
+                "Address": "3434 Old Frederick Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -1856,7 +1998,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Acadamy of  Success"
+                "Name": "Acadamy of  Success",
+                "Address": "525 Hurley Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1869,7 +2012,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Frederick Elementary"
+                "Name": "Frederick Elementary",
+                "Address": "2501 Frederick Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -1882,7 +2026,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Samuel Morse Elementary"
+                "Name": "Samuel Morse Elementary",
+                "Address": "424 S Pulaski St"
             },
             "geometry": {
                 "type": "Point",
@@ -1895,7 +2040,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George Washington Elementary"
+                "Name": "George Washington Elementary",
+                "Address": "800 Scott St"
             },
             "geometry": {
                 "type": "Point",
@@ -1908,7 +2054,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George Washington Elementary"
+                "Name": "George Washington Elementary",
+                "Address": "800 Scott St"
             },
             "geometry": {
                 "type": "Point",
@@ -1921,7 +2068,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Charles Carroll Barrister Elem"
+                "Name": "Charles Carroll Barrister Elem",
+                "Address": "1327 Washington Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -1934,7 +2082,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George Washington Elementary"
+                "Name": "George Washington Elementary",
+                "Address": "800 Scott St"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,7 +2096,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 2"
+                "Name": "Engine House No. 2",
+                "Address": "800 Light St"
             },
             "geometry": {
                 "type": "Point",
@@ -1960,7 +2110,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "South Baltimore Learning Center"
+                "Name": "South Baltimore Learning Center",
+                "Address": "28 E Ostend St"
             },
             "geometry": {
                 "type": "Point",
@@ -1973,7 +2124,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Solo Gibbs Recreation Center"
+                "Name": "Solo Gibbs Recreation Center",
+                "Address": "1044 Leadenhall St"
             },
             "geometry": {
                 "type": "Point",
@@ -1986,7 +2138,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Thomas Johnson"
+                "Name": "Thomas Johnson",
+                "Address": "100 E Heath St"
             },
             "geometry": {
                 "type": "Point",
@@ -1999,7 +2152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Federal Hill Preparatory"
+                "Name": "Federal Hill Preparatory",
+                "Address": "1040 William St"
             },
             "geometry": {
                 "type": "Point",
@@ -2012,7 +2166,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Holy Cross Church Hall"
+                "Name": "Holy Cross Church Hall",
+                "Address": "108 E West St"
             },
             "geometry": {
                 "type": "Point",
@@ -2025,7 +2180,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Digital Harbor High School"
+                "Name": "Digital Harbor High School",
+                "Address": "1000 Covington St"
             },
             "geometry": {
                 "type": "Point",
@@ -2038,7 +2194,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Thomas Johnson"
+                "Name": "Thomas Johnson",
+                "Address": "100 E. Heath St"
             },
             "geometry": {
                 "type": "Point",
@@ -2051,7 +2208,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Francis Scott Key Elem/Middle"
+                "Name": "Francis Scott Key Elem/Middle",
+                "Address": "1425 E Fort Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2064,7 +2222,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Beechfield Elementary"
+                "Name": "Beechfield Elementary",
+                "Address": "301 S Beechfield Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2077,7 +2236,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Beechfield Elementary"
+                "Name": "Beechfield Elementary",
+                "Address": "301 S Beechfield Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2090,7 +2250,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Violetville Elem/Middle"
+                "Name": "Violetville Elem/Middle",
+                "Address": "1207 Pine Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2103,7 +2264,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Morell Park ElEm/Middle"
+                "Name": "Morell Park ElEm/Middle",
+                "Address": "2601 Tolley St"
             },
             "geometry": {
                 "type": "Point",
@@ -2116,7 +2278,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lakeland Recreation Center"
+                "Name": "Lakeland Recreation Center",
+                "Address": "2921 Stranden Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2129,7 +2292,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Westport Elem/Middle"
+                "Name": "Westport Elem/Middle",
+                "Address": "2401 Nevada St"
             },
             "geometry": {
                 "type": "Point",
@@ -2142,7 +2306,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 58"
+                "Name": "Engine House No. 58",
+                "Address": "2425 1/2 Annapolis Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2155,7 +2320,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Arundel Elem/Middle"
+                "Name": "Arundel Elem/Middle",
+                "Address": "2400 Round Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2168,7 +2334,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Friendship Academy at Cherry Hill"
+                "Name": "Friendship Academy at Cherry Hill",
+                "Address": "801 Bridgeview Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2181,7 +2348,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Southside Academy"
+                "Name": "Southside Academy",
+                "Address": "2700 Seamon Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2194,7 +2362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Maree Garett Farring Elemen"
+                "Name": "Maree Garett Farring Elemen",
+                "Address": "300 Pontiac Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2207,7 +2376,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Maree Garett Farring Elemen"
+                "Name": "Maree Garett Farring Elemen",
+                "Address": "300 Pontiac Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2220,7 +2390,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brooklyn Recreation Center"
+                "Name": "Brooklyn Recreation Center",
+                "Address": "3560 Third St"
             },
             "geometry": {
                 "type": "Point",
@@ -2233,7 +2404,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brooklyn Homes"
+                "Name": "Brooklyn Homes",
+                "Address": "4140 Tenth St"
             },
             "geometry": {
                 "type": "Point",
@@ -2246,7 +2418,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Benjamin Franklin Middle"
+                "Name": "Benjamin Franklin Middle",
+                "Address": "1201 Cambria Str"
             },
             "geometry": {
                 "type": "Point",
@@ -2259,7 +2432,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Curtis Bay Recreation Center"
+                "Name": "Curtis Bay Recreation Center",
+                "Address": "1620 Filbert St"
             },
             "geometry": {
                 "type": "Point",
@@ -2272,7 +2446,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Helena Community Assoc."
+                "Name": "St. Helena Community Assoc.",
+                "Address": "6509 Colgate Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2285,7 +2460,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Graceland Park Elementary"
+                "Name": "Graceland Park Elementary",
+                "Address": "6300 O' Donnell St"
             },
             "geometry": {
                 "type": "Point",
@@ -2298,7 +2474,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Graceland Park Elementary"
+                "Name": "Graceland Park Elementary",
+                "Address": "6300 O' Donnell St"
             },
             "geometry": {
                 "type": "Point",
@@ -2311,7 +2488,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Patterson High"
+                "Name": "Patterson High",
+                "Address": "100 Kane St"
             },
             "geometry": {
                 "type": "Point",
@@ -2324,7 +2502,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Joseph Lee Field House"
+                "Name": "Joseph Lee Field House",
+                "Address": "5900 E Pratt St"
             },
             "geometry": {
                 "type": "Point",
@@ -2337,7 +2516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "John Ruhran Elemtary"
+                "Name": "John Ruhran Elemtary",
+                "Address": "701 S Rappolla St"
             },
             "geometry": {
                 "type": "Point",
@@ -2350,7 +2530,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Nicholas' Church Hall"
+                "Name": "St. Nicholas' Church Hall",
+                "Address": "520 S Ponca St - Rear"
             },
             "geometry": {
                 "type": "Point",
@@ -2363,7 +2544,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Canton Baptist Church"
+                "Name": "Canton Baptist Church",
+                "Address": "3302 Toone St"
             },
             "geometry": {
                 "type": "Point",
@@ -2376,7 +2558,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Canton Middle"
+                "Name": "Canton Middle",
+                "Address": "801 S Highland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2389,7 +2572,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Highlandtown Elementary"
+                "Name": "Highlandtown Elementary",
+                "Address": "3223 E Pratt St"
             },
             "geometry": {
                 "type": "Point",
@@ -2402,7 +2586,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Highlandtown Elementary/Middle- School 237"
+                "Name": "Highlandtown Elementary/Middle- School 237",
+                "Address": "231 S Eaton St"
             },
             "geometry": {
                 "type": "Point",
@@ -2415,7 +2600,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 51"
+                "Name": "Engine House No. 51",
+                "Address": "646 N Highland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2428,7 +2614,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Carroll Cook Recreation Center"
+                "Name": "Carroll Cook Recreation Center",
+                "Address": "5061 E Eager St"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,7 +2628,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Community Building"
+                "Name": "Community Building",
+                "Address": "931 Armistead Way"
             },
             "geometry": {
                 "type": "Point",
@@ -2454,7 +2642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Moravia Park Pre-K-8 Campus"
+                "Name": "Moravia Park Pre-K-8 Campus",
+                "Address": "6001 Frankford Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2467,7 +2656,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Maritime Industries Academy"
+                "Name": "Maritime Industries Academy",
+                "Address": "5001 Sinclair Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -2480,7 +2670,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Orchard Ridge III Community Room"
+                "Name": "Orchard Ridge III Community Room",
+                "Address": "4340 Orchard Ridge Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -2493,7 +2684,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Sinclair Lane Elementary"
+                "Name": "Sinclair Lane Elementary",
+                "Address": "3880 Sinclair Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -2506,7 +2698,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Enoch Pratt Free Library Herring Run Branch"
+                "Name": "Enoch Pratt Free Library Herring Run Branch",
+                "Address": "3801 Erdman Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2519,7 +2712,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brehms Lane Elementary"
+                "Name": "Brehms Lane Elementary",
+                "Address": "3536 Brehms Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -2532,7 +2726,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brehms Lane Elementary"
+                "Name": "Brehms Lane Elementary",
+                "Address": "3536 Brehms Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -2545,7 +2740,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Jerusalem Evangelical Luth"
+                "Name": "Jerusalem Evangelical Luth",
+                "Address": "4605 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2558,7 +2754,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Jerusalem Evangelical Luth"
+                "Name": "Jerusalem Evangelical Luth",
+                "Address": "4605 Belair Road"
             },
             "geometry": {
                 "type": "Point",
@@ -2571,7 +2768,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northeast Middle School"
+                "Name": "Northeast Middle School",
+                "Address": "5001 Moravia Road"
             },
             "geometry": {
                 "type": "Point",
@@ -2584,7 +2782,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Furley Elementary"
+                "Name": "Furley Elementary",
+                "Address": "4633 Furley Avenue"
             },
             "geometry": {
                 "type": "Point",
@@ -2597,7 +2796,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gardenville Elementary"
+                "Name": "Gardenville Elementary",
+                "Address": "5300 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2610,7 +2810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hazelwood Elem/Middle"
+                "Name": "Hazelwood Elem/Middle",
+                "Address": "4517 Hazelwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2623,7 +2824,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hazelwood Elm/Middle"
+                "Name": "Hazelwood Elm/Middle",
+                "Address": "4517 Hazelwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2636,7 +2838,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hazelwood Elem/Middle"
+                "Name": "Hazelwood Elem/Middle",
+                "Address": "4517 Hazelwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2649,7 +2852,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 54"
+                "Name": "Engine House No. 54",
+                "Address": "5821 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2662,7 +2866,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 54"
+                "Name": "Engine House No. 54",
+                "Address": "5821 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2675,7 +2880,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Jerusalem Evangelical Luth"
+                "Name": "Jerusalem Evangelical Luth",
+                "Address": "4605 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,7 +2894,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Ray of Hope Baptist Church"
+                "Name": "Ray of Hope Baptist Church",
+                "Address": "3000 Parkside Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -2701,7 +2908,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 42"
+                "Name": "Engine House No. 42",
+                "Address": "4522 Harford Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2714,7 +2922,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harford Center for Senior Citizens"
+                "Name": "Harford Center for Senior Citizens",
+                "Address": "4920 Harford Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2727,7 +2936,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hamilton Middle"
+                "Name": "Hamilton Middle",
+                "Address": "5609 Sefton Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2740,7 +2950,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Gardenville Elementary"
+                "Name": "Gardenville Elementary",
+                "Address": "5300 Belair Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2753,7 +2964,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Glenmount Elem/Middle"
+                "Name": "Glenmount Elem/Middle",
+                "Address": "6211 Walther Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2766,7 +2978,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Glenmount Elem/Middle"
+                "Name": "Glenmount Elem/Middle",
+                "Address": "6211 Walther Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2779,7 +2992,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 56"
+                "Name": "Engine House No. 56",
+                "Address": "6512 Harford Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2792,7 +3006,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Overlea Methodist Church"
+                "Name": "Overlea Methodist Church",
+                "Address": "3902 Overlea Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2805,7 +3020,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Woodhome Recreation Center"
+                "Name": "Woodhome Recreation Center",
+                "Address": "7310 Moyer Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2818,7 +3034,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "North Harford Rec. Center"
+                "Name": "North Harford Rec. Center",
+                "Address": "6800 Hamlet Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2831,7 +3048,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hamilton Elem/Middle"
+                "Name": "Hamilton Elem/Middle",
+                "Address": "6101 Old Harford Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2844,7 +3062,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "W.E.B. DuBois High"
+                "Name": "W.E.B. DuBois High",
+                "Address": "2201 Pinewood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2857,7 +3076,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Garrett Heights Elementary"
+                "Name": "Garrett Heights Elementary",
+                "Address": "2800 Ailsa Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2870,7 +3090,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Garrett Heights Elementary"
+                "Name": "Garrett Heights Elementary",
+                "Address": "2800 Ailsa Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -2883,7 +3104,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 42"
+                "Name": "Engine House No. 42",
+                "Address": "4522 Harford Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2896,7 +3118,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Yorkwood Elementary"
+                "Name": "Yorkwood Elementary",
+                "Address": "5931 Yorkwood Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2909,7 +3132,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Yorkwood Elementary"
+                "Name": "Yorkwood Elementary",
+                "Address": "5931 Yorkwood Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -2922,7 +3146,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwood Elementary"
+                "Name": "Northwood Elementary",
+                "Address": "5201 Loch Raven Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -2935,7 +3160,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwood Elementary"
+                "Name": "Northwood Elementary",
+                "Address": "5201 Loch Raven Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -2948,7 +3174,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwood Elementary"
+                "Name": "Northwood Elementary",
+                "Address": "5201 Loch Raven Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -2961,7 +3188,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwood Appold Community"
+                "Name": "Northwood Appold Community",
+                "Address": "4417 Loch Raven Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -2974,7 +3202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The League For People With Disabilities"
+                "Name": "The League For People With Disabilities",
+                "Address": "1111 E Coldspring Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -2987,7 +3216,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "The League For People With Disabilities"
+                "Name": "The League For People With Disabilities",
+                "Address": "1111 E Coldspring Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -3000,7 +3230,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore IT Academy"
+                "Name": "Baltimore IT Academy",
+                "Address": "900 Woodbourne Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3013,7 +3244,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore IT Academy"
+                "Name": "Baltimore IT Academy",
+                "Address": "900 Woodbourne Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3026,7 +3258,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwood Elementary"
+                "Name": "Northwood Elementary",
+                "Address": "5201 Loch Raven Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -3039,7 +3272,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Leith Walk Elementary"
+                "Name": "Leith Walk Elementary",
+                "Address": "1235 Sherwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3052,7 +3286,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northside Baptist Church"
+                "Name": "Northside Baptist Church",
+                "Address": "1100 E Northern Pkwy"
             },
             "geometry": {
                 "type": "Point",
@@ -3065,7 +3300,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Govans Elementary"
+                "Name": "Govans Elementary",
+                "Address": "500 Campbell Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -3078,7 +3314,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Deweese Recreation Center"
+                "Name": "Deweese Recreation Center",
+                "Address": "5501 Ivanhoe Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3091,7 +3328,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore IT Academy"
+                "Name": "Baltimore IT Academy",
+                "Address": "900 Woodbourne Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3104,7 +3342,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Guilford Elem/Middle"
+                "Name": "Guilford Elem/Middle",
+                "Address": "4520 York Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3117,7 +3356,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Guilford Elem/Middle"
+                "Name": "Guilford Elem/Middle",
+                "Address": "4520 York Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3130,7 +3370,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Govans Manor"
+                "Name": "Govans Manor",
+                "Address": "5220 York Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3143,7 +3384,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. Marys Church of Govans"
+                "Name": "St. Marys Church of Govans",
+                "Address": "5502 York Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3156,7 +3398,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Grace United Methodist Church"
+                "Name": "Grace United Methodist Church",
+                "Address": "5407 N Charles St"
             },
             "geometry": {
                 "type": "Point",
@@ -3169,7 +3412,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Grace United Methodist Church"
+                "Name": "Grace United Methodist Church",
+                "Address": "5407 N Charles St"
             },
             "geometry": {
                 "type": "Point",
@@ -3182,7 +3426,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "First Christian Church"
+                "Name": "First Christian Church",
+                "Address": "5802 Roland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3195,7 +3440,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Western High"
+                "Name": "Western High",
+                "Address": "4600 Falls Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3208,7 +3454,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Roland Park Elem/Middle"
+                "Name": "Roland Park Elem/Middle",
+                "Address": "5207 Roland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3221,7 +3468,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "St. David's Church"
+                "Name": "St. David's Church",
+                "Address": "4700 Roland Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3234,7 +3482,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Bolton Street Synagogue"
+                "Name": "Bolton Street Synagogue",
+                "Address": "212 W Coldspring Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -3247,7 +3496,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Medfield Heights Elementary"
+                "Name": "Medfield Heights Elementary",
+                "Address": "4300 Buchanan Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3260,7 +3510,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Ruscombe Garden Apartments"
+                "Name": "Ruscombe Garden Apartments",
+                "Address": "4800 Yellowwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3273,7 +3524,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Shrine of the Sacred Heart"
+                "Name": "Shrine of the Sacred Heart",
+                "Address": "5800 Smith Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3286,7 +3538,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Elderslie United Methodist"
+                "Name": "Elderslie United Methodist",
+                "Address": "5601 Pimlico Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3299,7 +3552,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Levindale Home"
+                "Name": "Levindale Home",
+                "Address": "2434 W. Belvedere Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3312,7 +3566,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Pimilco Elementary"
+                "Name": "Pimilco Elementary",
+                "Address": "4849 Pimlico Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3325,7 +3580,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Edgecombe Circle Elementary"
+                "Name": "Edgecombe Circle Elementary",
+                "Address": "2835 Virginia Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3338,7 +3594,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "C.C. Jackson Recreation Center"
+                "Name": "C.C. Jackson Recreation Center",
+                "Address": "4910 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3351,7 +3608,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Langston Hughes Elementary"
+                "Name": "Langston Hughes Elementary",
+                "Address": "5011 Arbutus Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3364,7 +3622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Bel-Park Tower"
+                "Name": "Bel-Park Tower",
+                "Address": "3800 W Belvedere Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3377,7 +3636,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Bel-Park Tower"
+                "Name": "Bel-Park Tower",
+                "Address": "3800 W Belvedere Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3390,7 +3650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Pimlico Elementary"
+                "Name": "Pimlico Elementary",
+                "Address": "4849 Pimlico Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3403,7 +3664,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwestern High"
+                "Name": "Northwestern High",
+                "Address": "6900 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3416,7 +3678,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Cross Country Elementary"
+                "Name": "Cross Country Elementary",
+                "Address": "6100 Cross Country Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -3429,7 +3692,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Engine House No. 45"
+                "Name": "Engine House No. 45",
+                "Address": "2700 Glen Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3442,7 +3706,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Cross Country Elementary"
+                "Name": "Cross Country Elementary",
+                "Address": "6100 Cross Country Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -3455,7 +3720,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwestern High"
+                "Name": "Northwestern High",
+                "Address": "6900 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3468,7 +3734,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Fallstaff Elementary"
+                "Name": "Fallstaff Elementary",
+                "Address": "3801 Fallstaff Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3481,7 +3748,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Fallstaff Elementary"
+                "Name": "Fallstaff Elementary",
+                "Address": "3801 Fallstaff Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3494,7 +3762,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Grove Park Elementary"
+                "Name": "Grove Park Elementary",
+                "Address": "5545 Kennison Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3507,7 +3776,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "George McMechen Middle/Sr."
+                "Name": "George McMechen Middle/Sr.",
+                "Address": "4411 Garrison Blvd"
             },
             "geometry": {
                 "type": "Point",
@@ -3520,7 +3790,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Calvin Rodwell Elementary"
+                "Name": "Calvin Rodwell Elementary",
+                "Address": "3501 Hillsdale Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3533,7 +3804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Forest Park Senior Center"
+                "Name": "Forest Park Senior Center",
+                "Address": "4801 Liberty Heights Av"
             },
             "geometry": {
                 "type": "Point",
@@ -3546,7 +3818,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Forest Park Senior Center"
+                "Name": "Forest Park Senior Center",
+                "Address": "4801 Liberty Heights Av"
             },
             "geometry": {
                 "type": "Point",
@@ -3559,7 +3832,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Calvin Rodwell Elementary"
+                "Name": "Calvin Rodwell Elementary",
+                "Address": "3501 Hillsdale Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3572,7 +3846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Liberty Recreation Center"
+                "Name": "Liberty Recreation Center",
+                "Address": "3901 Maine Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3585,7 +3860,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Dickey Hill Elem/Middle"
+                "Name": "Dickey Hill Elem/Middle",
+                "Address": "5025 Dickey Hill Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3598,7 +3874,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Thomas Jefferson Elementary"
+                "Name": "Thomas Jefferson Elementary",
+                "Address": "605 Dryden Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -3611,7 +3888,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Thomas Jefferson Elementary"
+                "Name": "Thomas Jefferson Elementary",
+                "Address": "605 Dryden Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -3624,7 +3902,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Thomas Jefferson Elementary"
+                "Name": "Thomas Jefferson Elementary",
+                "Address": "605 Dryden Dr"
             },
             "geometry": {
                 "type": "Point",
@@ -3637,7 +3916,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Edmondson Westside High"
+                "Name": "Edmondson Westside High",
+                "Address": "501 Athol Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3650,7 +3930,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Beechfield Elementary"
+                "Name": "Beechfield Elementary",
+                "Address": "301 S Beechfield Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3663,7 +3944,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Green Street Academy"
+                "Name": "Green Street Academy",
+                "Address": "201 North Bend Rd"
             },
             "geometry": {
                 "type": "Point",
@@ -3676,7 +3958,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Northwestern High"
+                "Name": "Northwestern High",
+                "Address": "6900 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3689,7 +3972,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Harbor Apartments"
+                "Name": "Harbor Apartments",
+                "Address": "600 Light St"
             },
             "geometry": {
                 "type": "Point",
@@ -3702,7 +3986,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Leith Walk Elementary"
+                "Name": "Leith Walk Elementary",
+                "Address": "1235 Sherwood Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3715,7 +4000,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Baltimore Freedom Academy"
+                "Name": "Baltimore Freedom Academy",
+                "Address": "1601 E Lombard St"
             },
             "geometry": {
                 "type": "Point",
@@ -3728,7 +4014,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Hampden Elementary"
+                "Name": "Hampden Elementary",
+                "Address": "3608 Chestnut Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3741,7 +4028,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Steuart Hill Elem/Middle"
+                "Name": "Steuart Hill Elem/Middle",
+                "Address": "30 S Gilmor Street"
             },
             "geometry": {
                 "type": "Point",
@@ -3754,7 +4042,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Brehms Lane Elementary"
+                "Name": "Brehms Lane Elementary",
+                "Address": "3536 Brehms Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -3767,7 +4056,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Sinclair Lane Elementary"
+                "Name": "Sinclair Lane Elementary",
+                "Address": "3880 Sinclair Ln"
             },
             "geometry": {
                 "type": "Point",
@@ -3780,7 +4070,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Jewish Community Center"
+                "Name": "Jewish Community Center",
+                "Address": "5700 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3793,7 +4084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Jewish Community Center"
+                "Name": "Jewish Community Center",
+                "Address": "5700 Park Heights Ave"
             },
             "geometry": {
                 "type": "Point",
@@ -3806,7 +4098,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Friendship Academy of Engineering & Technology"
+                "Name": "Friendship Academy of Engineering & Technology",
+                "Address": "2500 E Northern Pkwy"
             },
             "geometry": {
                 "type": "Point",
@@ -3819,7 +4112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "East Baltimore Development, Inc."
+                "Name": "East Baltimore Development, Inc.",
+                "Address": "1731 E Chase St"
             },
             "geometry": {
                 "type": "Point",
