@@ -1,122 +1,1519 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::102113" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "Mt Pleasant Park \/ James Welling Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8524361.8004, 4772548.769199997186661 ] } },
-{ "type": "Feature", "properties": { "Name": "Stoney Run \/ Linkwood Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8529922.8604, 4771164.941100001335144 ] } },
-{ "type": "Feature", "properties": { "Name": "Towanda Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8534578.5768, 4769768.286300003528595 ] } },
-{ "type": "Feature", "properties": { "Name": "Forest Park Golf Course \/ Conlon Field \/  Hillsdale" }, "geometry": { "type": "Point", "coordinates": [ -8538377.6609, 4767697.637500002980232 ] } },
-{ "type": "Feature", "properties": { "Name": "Roosevelt Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8531151.994, 4769058.175800003111362 ] } },
-{ "type": "Feature", "properties": { "Name": "Druid Hill Park #1 - Conservatory" }, "geometry": { "type": "Point", "coordinates": [ -8532110.5809, 4767584.844899997115135 ] } },
-{ "type": "Feature", "properties": { "Name": "Wyman Park #1 - Sisson" }, "geometry": { "type": "Point", "coordinates": [ -8530068.8546, 4767868.913999997079372 ] } },
-{ "type": "Feature", "properties": { "Name": "Wyman Park #2 - Sisson" }, "geometry": { "type": "Point", "coordinates": [ -8530025.8475, 4767944.5616 ] } },
-{ "type": "Feature", "properties": { "Name": "Roosevelt Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8531148.2686, 4768929.683300003409386 ] } },
-{ "type": "Feature", "properties": { "Name": "Herring Run Park #15 - Chesterfield" }, "geometry": { "type": "Point", "coordinates": [ -8524653.1337, 4769215.671300001442432 ] } },
-{ "type": "Feature", "properties": { "Name": "Herring Run Park #2 - Chesterfield" }, "geometry": { "type": "Point", "coordinates": [ -8524532.9957, 4769343.603 ] } },
-{ "type": "Feature", "properties": { "Name": "Herring Run Park $16 - Woodstock" }, "geometry": { "type": "Point", "coordinates": [ -8523967.1013, 4768807.0194 ] } },
-{ "type": "Feature", "properties": { "Name": "Radecke Park #5" }, "geometry": { "type": "Point", "coordinates": [ -8519874.5109, 4768996.293300002813339 ] } },
-{ "type": "Feature", "properties": { "Name": "Radecke Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8520009.7228, 4769199.268200002610683 ] } },
-{ "type": "Feature", "properties": { "Name": "Radecke Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8520021.8526, 4769366.756099998950958 ] } },
-{ "type": "Feature", "properties": { "Name": "Hanlon Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8534589.517, 4767283.11150000244379 ] } },
-{ "type": "Feature", "properties": { "Name": "Clifton Park #5" }, "geometry": { "type": "Point", "coordinates": [ -8526155.4589, 4767190.701700001955032 ] } },
-{ "type": "Feature", "properties": { "Name": "Clifton Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8526212.7477, 4767359.328699998557568 ] } },
-{ "type": "Feature", "properties": { "Name": "Clifton Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8526167.3698, 4767436.4555 ] } },
-{ "type": "Feature", "properties": { "Name": "Clifton Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8526093.9632, 4767527.823600001633167 ] } },
-{ "type": "Feature", "properties": { "Name": "Clifton Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8526021.6485, 4767609.503200002014637 ] } },
-{ "type": "Feature", "properties": { "Name": "Collington Square #1" }, "geometry": { "type": "Point", "coordinates": [ -8525516.5614, 4765604.403800003230572 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park Extension #1" }, "geometry": { "type": "Point", "coordinates": [ -8524279.4654, 4762886.945799998939037 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park Extension #2" }, "geometry": { "type": "Point", "coordinates": [ -8524256.8321, 4763133.711400002241135 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park Extension #4" }, "geometry": { "type": "Point", "coordinates": [ -8524332.1072, 4763209.814499996602535 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #7" }, "geometry": { "type": "Point", "coordinates": [ -8524716.0285, 4762850.167000003159046 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #8" }, "geometry": { "type": "Point", "coordinates": [ -8524668.5635, 4762851.5878000035882 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #6" }, "geometry": { "type": "Point", "coordinates": [ -8524763.3595, 4762970.0361 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #3 - Utz" }, "geometry": { "type": "Point", "coordinates": [ -8524630.4903, 4763099.1537000015378 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #1 - Ortman" }, "geometry": { "type": "Point", "coordinates": [ -8524661.5825, 4763446.16780000180006 ] } },
-{ "type": "Feature", "properties": { "Name": "Patterson Park #2 - Ortman" }, "geometry": { "type": "Point", "coordinates": [ -8524561.2753, 4763457.2509 ] } },
-{ "type": "Feature", "properties": { "Name": "Joseph E. Lee Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8520581.8384, 4763772.391099996864796 ] } },
-{ "type": "Feature", "properties": { "Name": "Joseph E. Lee Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8520579.1717, 4763605.409599997103214 ] } },
-{ "type": "Feature", "properties": { "Name": "McKim Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8527117.4886, 4763576.663199998438358 ] } },
-{ "type": "Feature", "properties": { "Name": "Madison Square Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8526968.6989, 4765133.166000001132488 ] } },
-{ "type": "Feature", "properties": { "Name": "Madison Square Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8526883.9444, 4765137.7843 ] } },
-{ "type": "Feature", "properties": { "Name": "Johnston Square Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8527720.1545, 4765213.935199998319149 ] } },
-{ "type": "Feature", "properties": { "Name": "Robert C. Marshall Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8530488.0637, 4764893.021300002932549 ] } },
-{ "type": "Feature", "properties": { "Name": "Easterwood Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8533216.4127, 4765573.9881 ] } },
-{ "type": "Feature", "properties": { "Name": "Easterwood Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8533207.3184, 4765444.9661 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #8 - Leon Day" }, "geometry": { "type": "Point", "coordinates": [ -8535049.1514, 4764587.712300002574921 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #9 - Leon Day" }, "geometry": { "type": "Point", "coordinates": [ -8535075.5879, 4764442.8463 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #1 - Windsor Mill \/ Sloman" }, "geometry": { "type": "Point", "coordinates": [ -8538969.6899, 4766080.8218 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #2 - Windsor Mill \/ Sloman" }, "geometry": { "type": "Point", "coordinates": [ -8538827.7169, 4766027.0414 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #4 - Windsor Mill \/ Sloman" }, "geometry": { "type": "Point", "coordinates": [ -8538580.2501, 4766013.621699996292591 ] } },
-{ "type": "Feature", "properties": { "Name": "Burdick Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8520774.8096, 4772567.133299998939037 ] } },
-{ "type": "Feature", "properties": { "Name": "Violetville Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8536046.9354, 4759968.878200002014637 ] } },
-{ "type": "Feature", "properties": { "Name": "Violetville Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8536117.0325, 4759903.086599998176098 ] } },
-{ "type": "Feature", "properties": { "Name": "Violetville Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8536206.5209, 4759969.960600003600121 ] } },
-{ "type": "Feature", "properties": { "Name": "Violetville Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8536122.7722, 4760078.274800002574921 ] } },
-{ "type": "Feature", "properties": { "Name": "Catherine Street Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8532974.2396, 4761994.6284 ] } },
-{ "type": "Feature", "properties": { "Name": "Desoto Park" }, "geometry": { "type": "Point", "coordinates": [ -8533498.4273, 4759867.084299996495247 ] } },
-{ "type": "Feature", "properties": { "Name": "Morrell Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8532421.2821, 4759794.184 ] } },
-{ "type": "Feature", "properties": { "Name": "Morrell Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8532473.2781, 4759720.0214 ] } },
-{ "type": "Feature", "properties": { "Name": "Morrell Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8532400.9468, 4759709.8284 ] } },
-{ "type": "Feature", "properties": { "Name": "Florence Cummings Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8531396.9311, 4759285.291500002145767 ] } },
-{ "type": "Feature", "properties": { "Name": "Lakeland Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8531580.7987, 4758159.991800002753735 ] } },
-{ "type": "Feature", "properties": { "Name": "Lakeland Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8531688.8086, 4758316.5616 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8531400.6361, 4761762.3169 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8531504.9816, 4761784.483000002801418 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8531466.114, 4761727.467200003564358 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8531449.9241, 4761813.307899996638298 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #5" }, "geometry": { "type": "Point", "coordinates": [ -8531525.3182, 4761972.840599998831749 ] } },
-{ "type": "Feature", "properties": { "Name": "Carroll Park #6" }, "geometry": { "type": "Point", "coordinates": [ -8531574.9488, 4761950.075800001621246 ] } },
-{ "type": "Feature", "properties": { "Name": "Swann Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8529088.2622, 4759798.945100001990795 ] } },
-{ "type": "Feature", "properties": { "Name": "Swann Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8529324.9807, 4759763.586199998855591 ] } },
-{ "type": "Feature", "properties": { "Name": "Swann Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8529264.9229, 4759872.299199998378754 ] } },
-{ "type": "Feature", "properties": { "Name": "Riverside Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8528032.9773, 4760322.2939 ] } },
-{ "type": "Feature", "properties": { "Name": "Garrett Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8527925.5568, 4755929.879699997603893 ] } },
-{ "type": "Feature", "properties": { "Name": "Farring Baybrook Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8526933.4286, 4753754.570699997246265 ] } },
-{ "type": "Feature", "properties": { "Name": "Farring Baybrook Park #6" }, "geometry": { "type": "Point", "coordinates": [ -8527134.006, 4753902.704300001263618 ] } },
-{ "type": "Feature", "properties": { "Name": "Latrobe Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8526587.7292, 4760096.9406 ] } },
-{ "type": "Feature", "properties": { "Name": "Mary Rodman Recreation Center #1" }, "geometry": { "type": "Point", "coordinates": [ -8535736.5471, 4763602.265 ] } },
-{ "type": "Feature", "properties": { "Name": "Fort Holabird Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8519545.2107, 4759696.0372 ] } },
-{ "type": "Feature", "properties": { "Name": "Fort Holabird Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8519481.813, 4759693.352899998426437 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #3 - Windsor Mill \/ Sloman" }, "geometry": { "type": "Point", "coordinates": [ -8538706.8949, 4766045.0739 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #1 - Cahill Rec Center" }, "geometry": { "type": "Point", "coordinates": [ -8536605.7406, 4766274.441299997270107 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #6 - Stokes & Wildwood" }, "geometry": { "type": "Point", "coordinates": [ -8536403.6203, 4765106.234700001776218 ] } },
-{ "type": "Feature", "properties": { "Name": "Robert C. Marshall Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8530457.1574, 4764826.803999997675419 ] } },
-{ "type": "Feature", "properties": { "Name": "Towanda Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8534329.7892, 4769404.287699997425079 ] } },
-{ "type": "Feature", "properties": { "Name": "Druid Hill Park #5 - Reptile" }, "geometry": { "type": "Point", "coordinates": [ -8533160.4416, 4768251.9415 ] } },
-{ "type": "Feature", "properties": { "Name": "Druid Hill Park #2 - Mansion Lawn" }, "geometry": { "type": "Point", "coordinates": [ -8531953.3871, 4767864.160499997437 ] } },
-{ "type": "Feature", "properties": { "Name": "Roosevelt Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8531036.6679, 4768903.740500003099442 ] } },
-{ "type": "Feature", "properties": { "Name": "Roosevelt Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8531014.2103, 4768801.4494 ] } },
-{ "type": "Feature", "properties": { "Name": "Medfield #3" }, "geometry": { "type": "Point", "coordinates": [ -8532001.3569, 4770456.0317 ] } },
-{ "type": "Feature", "properties": { "Name": "Medfield #1" }, "geometry": { "type": "Point", "coordinates": [ -8531976.7032, 4770549.9397 ] } },
-{ "type": "Feature", "properties": { "Name": "Latrobe Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8526466.8917, 4759982.866899996995926 ] } },
-{ "type": "Feature", "properties": { "Name": "Solo Gibbs Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8529177.3018, 4761455.9668 ] } },
-{ "type": "Feature", "properties": { "Name": "Joseph E. Lee Park #5" }, "geometry": { "type": "Point", "coordinates": [ -8520453.6696, 4763521.006700001657009 ] } },
-{ "type": "Feature", "properties": { "Name": "Joseph E. Lee Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8520452.7697, 4763711.622900001704693 ] } },
-{ "type": "Feature", "properties": { "Name": "Joseph E. Lee Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8520466.0639, 4763888.233199998736382 ] } },
-{ "type": "Feature", "properties": { "Name": "Keys Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8520237.6376, 4774446.874300003051758 ] } },
-{ "type": "Feature", "properties": { "Name": "Keys Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8520278.3633, 4774406.6809 ] } },
-{ "type": "Feature", "properties": { "Name": "Keys Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8520317.8585, 4774347.928099997341633 ] } },
-{ "type": "Feature", "properties": { "Name": "Keys Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8520382.6712, 4774251.895400002598763 ] } },
-{ "type": "Feature", "properties": { "Name": "North Harford Park #1 - Kratz" }, "geometry": { "type": "Point", "coordinates": [ -8522605.1035, 4774519.554799996316433 ] } },
-{ "type": "Feature", "properties": { "Name": "North Harford Park #2 - Kratz" }, "geometry": { "type": "Point", "coordinates": [ -8522775.6526, 4774536.22240000218153 ] } },
-{ "type": "Feature", "properties": { "Name": "Herring Run Park #5 - Chesterfield" }, "geometry": { "type": "Point", "coordinates": [ -8524435.1075, 4769029.8159 ] } },
-{ "type": "Feature", "properties": { "Name": "Radecke Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8520143.9261, 4769345.0574000030756 ] } },
-{ "type": "Feature", "properties": { "Name": "Radecke Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8520120.7625, 4769191.108900003135204 ] } },
-{ "type": "Feature", "properties": { "Name": "Farring Baybrook Park #4" }, "geometry": { "type": "Point", "coordinates": [ -8526947.6851, 4753875.371299996972084 ] } },
-{ "type": "Feature", "properties": { "Name": "Farring Baybrook Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8526902.0543, 4753642.3643 ] } },
-{ "type": "Feature", "properties": { "Name": "Farring Baybrook Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8526858.9019, 4753551.7227 ] } },
-{ "type": "Feature", "properties": { "Name": "Dewees Park #3" }, "geometry": { "type": "Point", "coordinates": [ -8527392.0441, 4773045.403899997472763 ] } },
-{ "type": "Feature", "properties": { "Name": "Druid Hill Park #7 - Bowl" }, "geometry": { "type": "Point", "coordinates": [ -8531159.9189, 4767833.9949000030756 ] } },
-{ "type": "Feature", "properties": { "Name": "Druid Hill Park #8 - Bowl" }, "geometry": { "type": "Point", "coordinates": [ -8531046.5122, 4767948.0691 ] } },
-{ "type": "Feature", "properties": { "Name": "Hanlon Park #2" }, "geometry": { "type": "Point", "coordinates": [ -8535047.8323, 4768007.0181 ] } },
-{ "type": "Feature", "properties": { "Name": "Gwynns Falls \/ Leakin Park #7 - Stokes & Kevin" }, "geometry": { "type": "Point", "coordinates": [ -8537378.6299, 4764771.6267 ] } },
-{ "type": "Feature", "properties": { "Name": "Irvington Park \/ Slentz" }, "geometry": { "type": "Point", "coordinates": [ -8537365.0653, 4761729.868600003421307 ] } },
-{ "type": "Feature", "properties": { "Name": "Irvington Park \/ Slentz" }, "geometry": { "type": "Point", "coordinates": [ -8537201.4451, 4761703.681400001049042 ] } },
-{ "type": "Feature", "properties": { "Name": "Wyman Park #3 - Beech" }, "geometry": { "type": "Point", "coordinates": [ -8530003.6382, 4769425.600000001490116 ] } },
-{ "type": "Feature", "properties": { "Name": "C.C. Jackson Rec Wing #1" }, "geometry": { "type": "Point", "coordinates": [ -8535352.3996, 4771453.968500003218651 ] } },
-{ "type": "Feature", "properties": { "Name": "Pimlico MS #1" }, "geometry": { "type": "Point", "coordinates": [ -8536345.7929, 4772700.394299998879433 ] } },
-{ "type": "Feature", "properties": { "Name": "Northwest Park #1" }, "geometry": { "type": "Point", "coordinates": [ -8533702.2447, 4773167.889899998903275 ] } },
-{ "type": "Feature", "properties": { "Name": "Buena Vista Park" }, "geometry": { "type": "Point", "coordinates": [ -8531483.6055, 4769849.844899997115135 ] } },
-{ "type": "Feature", "properties": { "Name": "Helen Mackall Park" }, "geometry": { "type": "Point", "coordinates": [ -8533732.4613, 4764182.265500001609325 ] } }
-]
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mt Pleasant Park / James Welling Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5756449266392,
+                    39.35429267131443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Stoney Run / Linkwood Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62560077857825,
+                    39.344679759910605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Towanda Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66742379058469,
+                    39.33497640564197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Forest Park Golf Course / Conlon Field /  Hillsdale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70155154371157,
+                    39.320587953506475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roosevelt Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63664227356931,
+                    39.330042348113345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Druid Hill Park #1 - Conservatory"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64525340620358,
+                    39.31980409920317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wyman Park #1 - Sisson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62691226679078,
+                    39.321778225980935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wyman Park #2 - Sisson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62652592743822,
+                    39.32230392653883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roosevelt Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6366088077317,
+                    39.32914950706452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Herring Run Park #15 - Chesterfield"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57826201820083,
+                    39.33113670342085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Herring Run Park #2 - Chesterfield"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57718280018479,
+                    39.33202562246586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Herring Run Park $16 - Woodstock"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57209928429761,
+                    39.328297155901964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Radecke Park #5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53533491921802,
+                    39.3296123537296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Radecke Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53654954838166,
+                    39.33102272750596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Radecke Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53665851222898,
+                    39.33218649797241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hanlon Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66752206807342,
+                    39.317707154065765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clifton Park #5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5917576350896,
+                    39.31706492461905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clifton Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5922722691361,
+                    39.31823684377612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clifton Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59186463252477,
+                    39.31877285088713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clifton Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59120520981742,
+                    39.31940782525961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clifton Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59055559581465,
+                    39.31997546327484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Collington Square #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58601832119726,
+                    39.30603955535948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park Extension #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57490529875001,
+                    39.28714815952744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park Extension #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57470198035682,
+                    39.288863850610845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park Extension #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57537818808525,
+                    39.28939296535544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57882701180215,
+                    39.286892443384836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57840062645253,
+                    39.28690232195981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57925219340927,
+                    39.28772586746193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #3 - Utz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57805860907779,
+                    39.28862358327541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #1 - Ortman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57833791506255,
+                    39.2910362108505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Patterson Park #2 - Ortman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57743684015388,
+                    39.291113265118156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joseph E. Lee Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5416889502593,
+                    39.29330421386559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joseph E. Lee Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54166499488561,
+                    39.29214331716825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "McKim Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60039969492249,
+                    39.29194346314198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Madison Square Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59906309430616,
+                    39.3027639400651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Madison Square Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59830173167869,
+                    39.30279604301743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Johnston Square Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60581353481435,
+                    39.30332538474693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Robert C. Marshall Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63067808620849,
+                    39.30109461421823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Easterwood Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65518726227961,
+                    39.305828137788126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Easterwood Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65510556679274,
+                    39.304931307077055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #8 - Leon Day"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67165103413969,
+                    39.298972252122994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #9 - Leon Day"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67188851725979,
+                    39.297965190491446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #1 - Windsor Mill / Sloman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70686983070499,
+                    39.309351022838726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #2 - Windsor Mill / Sloman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70559446554667,
+                    39.308977215997395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #4 - Windsor Mill / Sloman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70337143345914,
+                    39.30888394052136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Burdick Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54342244004283,
+                    39.35442023062806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Violetville Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6806142803142,
+                    39.2668564776526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Violetville Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68124397327723,
+                    39.26639890775018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Violetville Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68204786125193,
+                    39.266864005544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Violetville Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68129553387958,
+                    39.26761730664103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Catherine Street Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6530117843083,
+                    39.28094377945748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Desoto Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65772064253488,
+                    39.266148516330894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Morrell Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64804448257111,
+                    39.26564150127316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Morrell Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64851157058624,
+                    39.26512570326832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Morrell Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64786180746313,
+                    39.26505481105222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Florence Cummings Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63884258097508,
+                    39.26210209734444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lakeland Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64049429172842,
+                    39.25427487823352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lakeland Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64146456116848,
+                    39.25536397922985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63887586355636,
+                    39.279328402128556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63981321513116,
+                    39.27948253564701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63946406153978,
+                    39.27908607162943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63931862519361,
+                    39.279682971087205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6399959019172,
+                    39.28079227963754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carroll Park #6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64044174118261,
+                    39.28063398597195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Swann Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61810345538667,
+                    39.26567461440923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Swann Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6202299338525,
+                    39.2654286952216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Swann Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61969042545581,
+                    39.266184785352806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Riverside Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60862366983896,
+                    39.269314375374115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Garrett Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60765869506919,
+                    39.238760361078334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farring Baybrook Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59874625581052,
+                    39.223623793634545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farring Baybrook Park #6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6005480732512,
+                    39.22465466308018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Latrobe Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59564078526321,
+                    39.267747122297926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mary Rodman Recreation Center #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67782601477518,
+                    39.29212145494649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fort Holabird Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53237676519076,
+                    39.26495889327581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fort Holabird Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53180725396189,
+                    39.2649402239579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #3 - Windsor Mill / Sloman"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70450910305408,
+                    39.309102553180324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #1 - Cahill Rec Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68563411283425,
+                    39.31069678085587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #6 - Stokes &amp; Wildwood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68381843528705,
+                    39.30257673360492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Robert C. Marshall Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63040045019186,
+                    39.30063430869436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Towanda Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66518889354893,
+                    39.33244727933455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Druid Hill Park #5 - Reptile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65468446533364,
+                    39.324439971969035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Druid Hill Park #2 - Mansion Lawn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64384131027248,
+                    39.32174519218235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roosevelt Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63560628158642,
+                    39.328969239932285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roosevelt Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63540454153318,
+                    39.32825845155437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Medfield #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64427223031764,
+                    39.339754731940886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Medfield #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64405076236244,
+                    39.340407161803256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Latrobe Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59455528353176,
+                    39.2669537664061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Solo Gibbs Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61890331172239,
+                    39.27719814066354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joseph E. Lee Park #5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54053759033943,
+                    39.29155652000407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joseph E. Lee Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54052950640018,
+                    39.292881740533545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joseph E. Lee Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54064893023066,
+                    39.294109565494914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Keys Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53859694186482,
+                    39.36747591246312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Keys Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53896278705247,
+                    39.36719677600259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Keys Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53931757847059,
+                    39.36678874559645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Keys Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53989980086074,
+                    39.36612180609471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "North Harford Park #1 - Kratz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.55986424989084,
+                    39.36798066358272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "North Harford Park #2 - Kratz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.56139631852308,
+                    39.3680964161214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Herring Run Park #5 - Chesterfield"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57630345552285,
+                    39.329845287919994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Radecke Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53775511713734,
+                    39.33203572813593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Radecke Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53754703497819,
+                    39.33096603305081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farring Baybrook Park #4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59887432412901,
+                    39.22446445244715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farring Baybrook Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59846441567835,
+                    39.222842933369556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farring Baybrook Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59807677107368,
+                    39.22221213926602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dewees Park #3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60286606894236,
+                    39.35774227544931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Druid Hill Park #7 - Bowl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63671346415725,
+                    39.321535560104266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Druid Hill Park #8 - Bowl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63569471443795,
+                    39.322328301237505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hanlon Park #2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67163918446278,
+                    39.322737954738535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gwynns Falls / Leakin Park #7 - Stokes &amp; Kevin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69257709554547,
+                    39.30025074474547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Irvington Park / Slentz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69245524267045,
+                    39.279102770005544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Irvington Park / Slentz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69098541740594,
+                    39.278920674465006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wyman Park #3 - Beech"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62632641790184,
+                    39.33259536346569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "C.C. Jackson Rec Wing #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67437515906911,
+                    39.346687629226345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pimlico MS #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68329896291444,
+                    39.35534587106608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Northwest Park #1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65955156539077,
+                    39.35859303196631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Buena Vista Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6396211903577,
+                    39.33554307659668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Helen Mackall Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65982300572692,
+                    39.296153680487016
+                ]
+            }
+        }
+    ]
 }
