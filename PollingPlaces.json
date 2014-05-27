@@ -2,14 +2,16 @@
     "type": "FeatureCollection",
     "crs": {
         "type": "name",
-        "properties": { "marker-symbol": "polling-place",
+        "properties": {
+            "marker-symbol": "polling-place",
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
         }
     },
     "features": [
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hampstead Hill Academy",
                 "Address": "500 S Linwood Ave"
             },
@@ -23,7 +25,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 5",
                 "Address": "2120 Eastern Ave"
             },
@@ -37,7 +40,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hampstead Hill Academy",
                 "Address": "500 S Linwood Ave"
             },
@@ -51,7 +55,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Brigid's Church",
                 "Address": "900 S East Ave"
             },
@@ -65,7 +70,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hatton Senior Citizens Center",
                 "Address": "2825 Fait Avenue"
             },
@@ -79,7 +85,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "General Wolfe Elementary",
                 "Address": "245 S Wolfe St"
             },
@@ -93,7 +100,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "General Wolfe Elementary",
                 "Address": "245 S Wolfe St"
             },
@@ -107,7 +115,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Lemko House",
                 "Address": "603 S Ann St"
             },
@@ -121,7 +130,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore Freedom Academy",
                 "Address": "1601 E Lombard St"
             },
@@ -135,7 +145,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Leo's Church Hall",
                 "Address": "225 S Exeter St"
             },
@@ -149,7 +160,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Charles Twin Tower Apartme",
                 "Address": "222 N Charles St"
             },
@@ -163,7 +175,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Steadman Fire Station",
                 "Address": "15 S Eutaw St"
             },
@@ -177,7 +190,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Murty Center-Poe Auditorium",
                 "Address": "206 N Fremont Ave"
             },
@@ -191,7 +205,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Pleasant View Gardens",
                 "Address": "201 N Aisquith St"
             },
@@ -205,7 +220,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Monument East Apartments",
                 "Address": "633 Asquith St"
             },
@@ -219,7 +235,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "William Paca Elementary",
                 "Address": "200 N Lakewood Ave"
             },
@@ -233,7 +250,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Commodore John Rogers Elem",
                 "Address": "100 N Chester St"
             },
@@ -247,7 +265,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Commodore John Rogers Elem",
                 "Address": "100 N Chester St"
             },
@@ -261,7 +280,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Commodore John Rogers Elem",
                 "Address": "100 N Chester St"
             },
@@ -275,7 +295,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "William Paca Elementary",
                 "Address": "200 N Lakewood Ave"
             },
@@ -289,7 +310,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Tench Tilghman Elementary",
                 "Address": "600 N PattersonPark Ave"
             },
@@ -303,7 +325,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Tench Tilghman Elementary",
                 "Address": "600 N PattersonPark Ave"
             },
@@ -317,7 +340,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "William Paca Elementary",
                 "Address": "200 N Lakewood Ave"
             },
@@ -331,7 +355,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Maryland State Boychoir Center for the Arts",
                 "Address": "3400 Norman Ave"
             },
@@ -345,7 +370,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Maryland State Boychoir Center for the Arts",
                 "Address": "3400 Norman Ave"
             },
@@ -359,7 +385,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Catholic High School",
                 "Address": "2800 Edison Highway"
             },
@@ -373,7 +400,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harford Heights Elementary",
                 "Address": "1919 N Broadway"
             },
@@ -387,7 +415,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harford Heights Elementary",
                 "Address": "1919 N Broadway"
             },
@@ -401,7 +430,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Dr. Bernard Harris Sr. Elem",
                 "Address": "1400 N Caroline St"
             },
@@ -415,7 +445,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Collington Square Rec Center",
                 "Address": "1409 Collington Ave"
             },
@@ -429,7 +460,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Maryland State Boychoir Center for the Arts",
                 "Address": "3400 Norman Ave"
             },
@@ -443,7 +475,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Maryland State Boychoir Center for the Arts",
                 "Address": "3400 Norman Ave"
             },
@@ -457,7 +490,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Forth Worthington Elementary",
                 "Address": "2701 E Oliver St"
             },
@@ -471,7 +505,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Lakewood Elementary",
                 "Address": "2625 E Federal St"
             },
@@ -485,7 +520,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Church of the Redeemed of God",
                 "Address": "4321 Old York Rd"
             },
@@ -499,7 +535,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Ellerslie Apartments",
                 "Address": "601 Wyanoke Ave"
             },
@@ -513,7 +550,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waverly Elem/Middle",
                 "Address": "3400 Ellerslie Ave"
             },
@@ -527,7 +565,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waverly Elem/Middle",
                 "Address": "3400 Ellerslie Ave"
             },
@@ -541,7 +580,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mergenthaler Vo Tech High",
                 "Address": "3500 Hillen Rd"
             },
@@ -555,7 +595,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mergenthaler Vo Tech High",
                 "Address": "3500 Hillen Rd"
             },
@@ -569,7 +610,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Montebello Elementary",
                 "Address": "2040 E. 32nd St"
             },
@@ -583,7 +625,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mason Hall",
                 "Address": "1640-44 Gorsuch Ave"
             },
@@ -597,7 +640,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Coldstream Park Elem/Middle",
                 "Address": "1400 Exeter Hall Ave"
             },
@@ -611,7 +655,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 31",
                 "Address": "3123 Greenmount Ave"
             },
@@ -625,7 +670,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Coldstream Park Elem/Middle",
                 "Address": "1400 Exeter Hall Ave"
             },
@@ -639,7 +685,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mason Hall",
                 "Address": "1640-44 Gorsuch Ave"
             },
@@ -653,7 +700,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Cecil Elementary",
                 "Address": "2000 Cecil Ave"
             },
@@ -667,7 +715,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Cecil Elementary",
                 "Address": "2000 Cecil Ave"
             },
@@ -681,7 +730,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Oliver Multi-Purpose Center",
                 "Address": "1400 E Federal St"
             },
@@ -695,7 +745,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Johnston Square Elementary",
                 "Address": "1101 Valley St"
             },
@@ -709,7 +760,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waters Tower",
                 "Address": "1400 E Madison St"
             },
@@ -723,7 +775,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Latrobe Homes",
                 "Address": "900 E Madison St"
             },
@@ -737,7 +790,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Johnston Square Elementary",
                 "Address": "1101 Valley St"
             },
@@ -751,7 +805,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Chase House",
                 "Address": "1027 Cathedral St"
             },
@@ -765,7 +820,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Chase House",
                 "Address": "1027 Cathedral St"
             },
@@ -779,7 +835,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brown Memorial Church",
                 "Address": "1316 Park Ave"
             },
@@ -793,7 +850,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "McCulloh Homes",
                 "Address": "501 Dolphin St"
             },
@@ -807,7 +865,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Chase House",
                 "Address": "1027 Cathedral St"
             },
@@ -821,7 +880,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Central Library",
                 "Address": "400 Cathedral St"
             },
@@ -835,7 +895,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waxter Center",
                 "Address": "1000 Cathedral St"
             },
@@ -849,7 +910,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "1st English Lutheran Church",
                 "Address": "3807 N Charles St"
             },
@@ -863,7 +925,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "1st English Lutheran Church",
                 "Address": "3807 N Charles St"
             },
@@ -877,7 +940,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Greenmount School",
                 "Address": "501 W 30th St"
             },
@@ -891,7 +955,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waverly Elem/Middle Sch",
                 "Address": "3400 Ellerslie Ave"
             },
@@ -905,7 +970,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Waverly Elem/Middle Sch",
                 "Address": "3400 Ellerslie Ave"
             },
@@ -919,7 +985,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Barclay Elem/Middle",
                 "Address": "2900 Barclay St"
             },
@@ -933,7 +1000,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Barclay Elem/Middle",
                 "Address": "2900 Barclay St"
             },
@@ -947,7 +1015,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Margaret Brent Elementary",
                 "Address": "100 E 26th St"
             },
@@ -961,7 +1030,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The Wyman House",
                 "Address": "123 W 29th St"
             },
@@ -975,7 +1045,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brentwood Apartments",
                 "Address": "401 E 25th St"
             },
@@ -989,7 +1060,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The West Twenty Apartments",
                 "Address": "11 W 20th St"
             },
@@ -1003,7 +1075,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore Montessori Public Charter School #336",
                 "Address": "1600 Guilford Ave"
             },
@@ -1017,7 +1090,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Keswick Multi-Care Center",
                 "Address": "700 W 40th St"
             },
@@ -1031,7 +1105,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 21",
                 "Address": "3724 Roland Ave"
             },
@@ -1045,7 +1120,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Robert Poole Middle",
                 "Address": "1300 W 36th St"
             },
@@ -1059,7 +1135,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Medfield Heights Elementary",
                 "Address": "4300 Buchanan Ave"
             },
@@ -1073,7 +1150,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Shiloh United Church Apostolic",
                 "Address": "2000 Druid Park Dr"
             },
@@ -1087,7 +1165,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 52",
                 "Address": "3525 Woodbrook Ave"
             },
@@ -1101,7 +1180,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Westside Elementary",
                 "Address": "2235 N Fulton Ave"
             },
@@ -1115,7 +1195,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Beth Am In Town Synagogue",
                 "Address": "2501 Eutaw Place"
             },
@@ -1129,7 +1210,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Lakeview Tower Apartments",
                 "Address": "727 Druid Park Lake Dr"
             },
@@ -1143,7 +1225,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "John Eager Howard Elementary",
                 "Address": "2011 Linden Ave"
             },
@@ -1157,7 +1240,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hampden Elementary",
                 "Address": "3608 Chestnut Ave"
             },
@@ -1171,7 +1255,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hampden Elementary",
                 "Address": "3608 Chestnut Ave"
             },
@@ -1185,7 +1270,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mt. Royal Recreation Center",
                 "Address": "120 W Mosher St"
             },
@@ -1199,7 +1285,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mt. Royal Recreation Center",
                 "Address": "120 W Mosher St"
             },
@@ -1213,7 +1300,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 13",
                 "Address": "405 McMechen St"
             },
@@ -1227,7 +1315,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Eutaw Marshburn Elementary",
                 "Address": "1624 Eutaw Place"
             },
@@ -1241,7 +1330,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Enoch Pratt Library Pennsylvania Ave Branch #17",
                 "Address": "1531 W North Ave"
             },
@@ -1255,7 +1345,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George McMechen Middle/Sr.",
                 "Address": "4411 Garrison Blvd"
             },
@@ -1269,7 +1360,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Forest Park Senior High",
                 "Address": "3701 Eldorado Ave"
             },
@@ -1283,7 +1375,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Callaway Elementary",
                 "Address": "3701 Fernhill Ave"
             },
@@ -1297,7 +1390,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Ashburton Elem/Middle",
                 "Address": "3935 Hilton Rd"
             },
@@ -1311,7 +1405,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Ashburton Elem/Middle",
                 "Address": "3935 Hilton Rd"
             },
@@ -1325,7 +1420,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gwyns Falls Elementary",
                 "Address": "2700 Gwynns Falls Pkwy"
             },
@@ -1339,7 +1435,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hilton Elementary",
                 "Address": "3301 Carlisle Ave"
             },
@@ -1353,7 +1450,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Liberty Grace Church of God",
                 "Address": "3400 Copley Rd"
             },
@@ -1367,7 +1465,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Liberty Elementary",
                 "Address": "3901 Maine Ave"
             },
@@ -1381,7 +1480,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Windsor Hills Elementary",
                 "Address": "4001 Alto Rd"
             },
@@ -1395,7 +1495,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Edgewood Elementary",
                 "Address": "1900 Edgewood St"
             },
@@ -1409,7 +1510,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Library No. 8",
                 "Address": "3203 W North Ave"
             },
@@ -1423,7 +1525,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Library No. 8",
                 "Address": "3203 W North Ave"
             },
@@ -1437,7 +1540,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gwyns Falls Elementary",
                 "Address": "2700 Gwynns Falls Pkwy"
             },
@@ -1451,7 +1555,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Carver Voc. Tech High",
                 "Address": "2201 Presstman St"
             },
@@ -1465,7 +1570,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Carver Voc. Tech High",
                 "Address": "2201 Presstman St"
             },
@@ -1479,7 +1585,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Matthew Henson Elementary",
                 "Address": "1600 N Payson St"
             },
@@ -1493,7 +1600,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gilmor Elementary School #107",
                 "Address": "1300 N Stricker St"
             },
@@ -1507,7 +1615,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George G. Kelson Elem/Middle",
                 "Address": "701 Gold St"
             },
@@ -1521,7 +1630,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Robert W. Coleman Elementary",
                 "Address": "2400 Windsor Ave"
             },
@@ -1535,7 +1645,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 52",
                 "Address": "3525 Woodbrook Ave"
             },
@@ -1549,7 +1660,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Greenhill Housing",
                 "Address": "2501 Violet Ave"
             },
@@ -1563,7 +1675,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Martin Luther King Elementary",
                 "Address": "3750 Greenspring Ave"
             },
@@ -1577,7 +1690,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwest Community Action Center",
                 "Address": "3939 Reisterstown Rd"
             },
@@ -1591,7 +1705,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwest Community Action Center",
                 "Address": "3939 Reisterstown Rd"
             },
@@ -1605,7 +1720,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harlem Park Elementary",
                 "Address": "801 N Stricker St"
             },
@@ -1619,7 +1735,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harlem Park Elementary",
                 "Address": "801 N Stricker St"
             },
@@ -1633,7 +1750,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harlem Park Elementary",
                 "Address": "801 N Stricker St"
             },
@@ -1647,7 +1765,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harlem Park Elementary",
                 "Address": "801 N Stricker St"
             },
@@ -1661,7 +1780,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gilmor Elementary School #107",
                 "Address": "1300 N Stricker St"
             },
@@ -1675,7 +1795,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Calverton Middle",
                 "Address": "1100 Whitmore Ave"
             },
@@ -1689,7 +1810,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Empowerment Academy",
                 "Address": "851 Braddish Ave"
             },
@@ -1703,7 +1825,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Empowerment Academy",
                 "Address": "851 Braddish Ave"
             },
@@ -1717,7 +1840,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Alexander Hamilton Elementary",
                 "Address": "800 Poplar Grove St"
             },
@@ -1731,7 +1855,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Friendship Preparatory Academy",
                 "Address": "1100 Whitmore Ave"
             },
@@ -1745,7 +1870,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Rosemont Elementary",
                 "Address": "2777 Presstman St"
             },
@@ -1759,7 +1885,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Belmont Elementary",
                 "Address": "1406 N Ellamont St"
             },
@@ -1773,7 +1900,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Bernadine's Hall",
                 "Address": "614 Mt Holly St"
             },
@@ -1787,7 +1915,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Lynhurst Elementary",
                 "Address": "621 Wildwood Pkwy"
             },
@@ -1801,7 +1930,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "McCulloh Homes",
                 "Address": "1102 Druid Hill Ave"
             },
@@ -1815,7 +1945,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Providence Insp. Baptist Church",
                 "Address": "850 Edmondson Ave"
             },
@@ -1829,7 +1960,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Greater Model Community Center",
                 "Address": "1051 W Saratoga St"
             },
@@ -1843,7 +1975,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "James McHenry",
                 "Address": "31 S Schroeder St"
             },
@@ -1857,7 +1990,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Franklin Square Elementary",
                 "Address": "1400 W Lexington St"
             },
@@ -1871,7 +2005,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Steuart Hill Elem/Middle",
                 "Address": "30 S Gilmor Street"
             },
@@ -1885,7 +2020,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mary Ann Winterline Elementary",
                 "Address": "220 N Bentalou St"
             },
@@ -1899,7 +2035,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Steuart Hill Elem/Middle",
                 "Address": "30 S Gilmor St"
             },
@@ -1913,7 +2050,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Frederick Elementary",
                 "Address": "2501 Frederick Ave"
             },
@@ -1927,7 +2065,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Voting Machine Warehouse",
                 "Address": "301 N Franklintown Rd"
             },
@@ -1941,7 +2080,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hilton Recreation Center",
                 "Address": "2950 Phelps Ln"
             },
@@ -1955,7 +2095,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Mary E. Rodman Recreation Cntr",
                 "Address": "3600 W Mulberry St"
             },
@@ -1969,7 +2110,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Sarah M. Roach Elementary",
                 "Address": "3434 Old Frederick Rd"
             },
@@ -1983,7 +2125,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Sarah M. Roach Elementary",
                 "Address": "3434 Old Frederick Rd"
             },
@@ -1997,7 +2140,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Acadamy of  Success",
                 "Address": "525 Hurley Ave"
             },
@@ -2011,7 +2155,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Frederick Elementary",
                 "Address": "2501 Frederick Ave"
             },
@@ -2025,7 +2170,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Samuel Morse Elementary",
                 "Address": "424 S Pulaski St"
             },
@@ -2039,7 +2185,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George Washington Elementary",
                 "Address": "800 Scott St"
             },
@@ -2053,7 +2200,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George Washington Elementary",
                 "Address": "800 Scott St"
             },
@@ -2067,7 +2215,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Charles Carroll Barrister Elem",
                 "Address": "1327 Washington Blvd"
             },
@@ -2081,7 +2230,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George Washington Elementary",
                 "Address": "800 Scott St"
             },
@@ -2095,7 +2245,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 2",
                 "Address": "800 Light St"
             },
@@ -2109,7 +2260,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "South Baltimore Learning Center",
                 "Address": "28 E Ostend St"
             },
@@ -2123,7 +2275,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Solo Gibbs Recreation Center",
                 "Address": "1044 Leadenhall St"
             },
@@ -2137,7 +2290,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Thomas Johnson",
                 "Address": "100 E Heath St"
             },
@@ -2151,7 +2305,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Federal Hill Preparatory",
                 "Address": "1040 William St"
             },
@@ -2165,7 +2320,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Holy Cross Church Hall",
                 "Address": "108 E West St"
             },
@@ -2179,7 +2335,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Digital Harbor High School",
                 "Address": "1000 Covington St"
             },
@@ -2193,7 +2350,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Thomas Johnson",
                 "Address": "100 E. Heath St"
             },
@@ -2207,7 +2365,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Francis Scott Key Elem/Middle",
                 "Address": "1425 E Fort Ave"
             },
@@ -2221,7 +2380,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Beechfield Elementary",
                 "Address": "301 S Beechfield Ave"
             },
@@ -2235,7 +2395,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Beechfield Elementary",
                 "Address": "301 S Beechfield Ave"
             },
@@ -2249,7 +2410,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Violetville Elem/Middle",
                 "Address": "1207 Pine Heights Ave"
             },
@@ -2263,7 +2425,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Morell Park ElEm/Middle",
                 "Address": "2601 Tolley St"
             },
@@ -2277,7 +2440,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Lakeland Recreation Center",
                 "Address": "2921 Stranden Rd"
             },
@@ -2291,7 +2455,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Westport Elem/Middle",
                 "Address": "2401 Nevada St"
             },
@@ -2305,7 +2470,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 58",
                 "Address": "2425 1/2 Annapolis Rd"
             },
@@ -2319,7 +2485,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Arundel Elem/Middle",
                 "Address": "2400 Round Rd"
             },
@@ -2333,7 +2500,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Friendship Academy at Cherry Hill",
                 "Address": "801 Bridgeview Rd"
             },
@@ -2347,7 +2515,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Southside Academy",
                 "Address": "2700 Seamon Ave"
             },
@@ -2361,7 +2530,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Maree Garett Farring Elemen",
                 "Address": "300 Pontiac Ave"
             },
@@ -2375,7 +2545,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Maree Garett Farring Elemen",
                 "Address": "300 Pontiac Ave"
             },
@@ -2389,7 +2560,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brooklyn Recreation Center",
                 "Address": "3560 Third St"
             },
@@ -2403,7 +2575,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brooklyn Homes",
                 "Address": "4140 Tenth St"
             },
@@ -2417,7 +2590,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Benjamin Franklin Middle",
                 "Address": "1201 Cambria Str"
             },
@@ -2431,7 +2605,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Curtis Bay Recreation Center",
                 "Address": "1620 Filbert St"
             },
@@ -2445,7 +2620,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Helena Community Assoc.",
                 "Address": "6509 Colgate Ave"
             },
@@ -2459,7 +2635,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Graceland Park Elementary",
                 "Address": "6300 O' Donnell St"
             },
@@ -2473,7 +2650,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Graceland Park Elementary",
                 "Address": "6300 O' Donnell St"
             },
@@ -2487,7 +2665,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Patterson High",
                 "Address": "100 Kane St"
             },
@@ -2501,7 +2680,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Joseph Lee Field House",
                 "Address": "5900 E Pratt St"
             },
@@ -2515,7 +2695,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "John Ruhran Elemtary",
                 "Address": "701 S Rappolla St"
             },
@@ -2529,7 +2710,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Nicholas' Church Hall",
                 "Address": "520 S Ponca St - Rear"
             },
@@ -2543,7 +2725,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Canton Baptist Church",
                 "Address": "3302 Toone St"
             },
@@ -2557,7 +2740,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Canton Middle",
                 "Address": "801 S Highland Ave"
             },
@@ -2571,7 +2755,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Highlandtown Elementary",
                 "Address": "3223 E Pratt St"
             },
@@ -2585,7 +2770,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Highlandtown Elementary/Middle- School 237",
                 "Address": "231 S Eaton St"
             },
@@ -2599,7 +2785,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 51",
                 "Address": "646 N Highland Ave"
             },
@@ -2613,7 +2800,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Carroll Cook Recreation Center",
                 "Address": "5061 E Eager St"
             },
@@ -2627,7 +2815,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Community Building",
                 "Address": "931 Armistead Way"
             },
@@ -2641,7 +2830,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Moravia Park Pre-K-8 Campus",
                 "Address": "6001 Frankford Ave"
             },
@@ -2655,7 +2845,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Maritime Industries Academy",
                 "Address": "5001 Sinclair Ln"
             },
@@ -2669,7 +2860,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Orchard Ridge III Community Room",
                 "Address": "4340 Orchard Ridge Blvd"
             },
@@ -2683,7 +2875,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Sinclair Lane Elementary",
                 "Address": "3880 Sinclair Ln"
             },
@@ -2697,7 +2890,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Enoch Pratt Free Library Herring Run Branch",
                 "Address": "3801 Erdman Ave"
             },
@@ -2711,7 +2905,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brehms Lane Elementary",
                 "Address": "3536 Brehms Ln"
             },
@@ -2725,7 +2920,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brehms Lane Elementary",
                 "Address": "3536 Brehms Ln"
             },
@@ -2739,7 +2935,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Jerusalem Evangelical Luth",
                 "Address": "4605 Belair Rd"
             },
@@ -2753,7 +2950,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Jerusalem Evangelical Luth",
                 "Address": "4605 Belair Road"
             },
@@ -2767,7 +2965,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northeast Middle School",
                 "Address": "5001 Moravia Road"
             },
@@ -2781,7 +2980,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Furley Elementary",
                 "Address": "4633 Furley Avenue"
             },
@@ -2795,7 +2995,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gardenville Elementary",
                 "Address": "5300 Belair Rd"
             },
@@ -2809,7 +3010,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hazelwood Elem/Middle",
                 "Address": "4517 Hazelwood Ave"
             },
@@ -2823,7 +3025,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hazelwood Elm/Middle",
                 "Address": "4517 Hazelwood Ave"
             },
@@ -2837,7 +3040,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hazelwood Elem/Middle",
                 "Address": "4517 Hazelwood Ave"
             },
@@ -2851,7 +3055,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 54",
                 "Address": "5821 Belair Rd"
             },
@@ -2865,7 +3070,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 54",
                 "Address": "5821 Belair Rd"
             },
@@ -2879,7 +3085,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Jerusalem Evangelical Luth",
                 "Address": "4605 Belair Rd"
             },
@@ -2893,7 +3100,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Ray of Hope Baptist Church",
                 "Address": "3000 Parkside Dr"
             },
@@ -2907,7 +3115,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 42",
                 "Address": "4522 Harford Rd"
             },
@@ -2921,7 +3130,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harford Center for Senior Citizens",
                 "Address": "4920 Harford Rd"
             },
@@ -2935,7 +3145,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hamilton Middle",
                 "Address": "5609 Sefton Ave"
             },
@@ -2949,7 +3160,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Gardenville Elementary",
                 "Address": "5300 Belair Rd"
             },
@@ -2963,7 +3175,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Glenmount Elem/Middle",
                 "Address": "6211 Walther Ave"
             },
@@ -2977,7 +3190,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Glenmount Elem/Middle",
                 "Address": "6211 Walther Ave"
             },
@@ -2991,7 +3205,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 56",
                 "Address": "6512 Harford Rd"
             },
@@ -3005,7 +3220,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Overlea Methodist Church",
                 "Address": "3902 Overlea Ave"
             },
@@ -3019,7 +3235,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Woodhome Recreation Center",
                 "Address": "7310 Moyer Ave"
             },
@@ -3033,7 +3250,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "North Harford Rec. Center",
                 "Address": "6800 Hamlet Ave"
             },
@@ -3047,7 +3265,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hamilton Elem/Middle",
                 "Address": "6101 Old Harford Rd"
             },
@@ -3061,7 +3280,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "W.E.B. DuBois High",
                 "Address": "2201 Pinewood Ave"
             },
@@ -3075,7 +3295,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Garrett Heights Elementary",
                 "Address": "2800 Ailsa Ave"
             },
@@ -3089,7 +3310,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Garrett Heights Elementary",
                 "Address": "2800 Ailsa Ave"
             },
@@ -3103,7 +3325,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 42",
                 "Address": "4522 Harford Rd"
             },
@@ -3117,7 +3340,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Yorkwood Elementary",
                 "Address": "5931 Yorkwood Rd"
             },
@@ -3131,7 +3355,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Yorkwood Elementary",
                 "Address": "5931 Yorkwood Rd"
             },
@@ -3145,7 +3370,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwood Elementary",
                 "Address": "5201 Loch Raven Blvd"
             },
@@ -3159,7 +3385,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwood Elementary",
                 "Address": "5201 Loch Raven Blvd"
             },
@@ -3173,7 +3400,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwood Elementary",
                 "Address": "5201 Loch Raven Blvd"
             },
@@ -3187,7 +3415,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwood Appold Community",
                 "Address": "4417 Loch Raven Blvd"
             },
@@ -3201,7 +3430,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The League For People With Disabilities",
                 "Address": "1111 E Coldspring Ln"
             },
@@ -3215,7 +3445,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "The League For People With Disabilities",
                 "Address": "1111 E Coldspring Ln"
             },
@@ -3229,7 +3460,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore IT Academy",
                 "Address": "900 Woodbourne Ave"
             },
@@ -3243,7 +3475,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore IT Academy",
                 "Address": "900 Woodbourne Ave"
             },
@@ -3257,7 +3490,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwood Elementary",
                 "Address": "5201 Loch Raven Blvd"
             },
@@ -3271,7 +3505,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Leith Walk Elementary",
                 "Address": "1235 Sherwood Ave"
             },
@@ -3285,7 +3520,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northside Baptist Church",
                 "Address": "1100 E Northern Pkwy"
             },
@@ -3299,7 +3535,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Govans Elementary",
                 "Address": "500 Campbell Ln"
             },
@@ -3313,7 +3550,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Deweese Recreation Center",
                 "Address": "5501 Ivanhoe Ave"
             },
@@ -3327,7 +3565,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore IT Academy",
                 "Address": "900 Woodbourne Ave"
             },
@@ -3341,7 +3580,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Guilford Elem/Middle",
                 "Address": "4520 York Rd"
             },
@@ -3355,7 +3595,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Guilford Elem/Middle",
                 "Address": "4520 York Rd"
             },
@@ -3369,7 +3610,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Govans Manor",
                 "Address": "5220 York Rd"
             },
@@ -3383,7 +3625,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. Marys Church of Govans",
                 "Address": "5502 York Rd"
             },
@@ -3397,7 +3640,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Grace United Methodist Church",
                 "Address": "5407 N Charles St"
             },
@@ -3411,7 +3655,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Grace United Methodist Church",
                 "Address": "5407 N Charles St"
             },
@@ -3425,7 +3670,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "First Christian Church",
                 "Address": "5802 Roland Ave"
             },
@@ -3439,7 +3685,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Western High",
                 "Address": "4600 Falls Rd"
             },
@@ -3453,7 +3700,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Roland Park Elem/Middle",
                 "Address": "5207 Roland Ave"
             },
@@ -3467,7 +3715,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "St. David's Church",
                 "Address": "4700 Roland Ave"
             },
@@ -3481,7 +3730,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Bolton Street Synagogue",
                 "Address": "212 W Coldspring Ln"
             },
@@ -3495,7 +3745,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Medfield Heights Elementary",
                 "Address": "4300 Buchanan Ave"
             },
@@ -3509,7 +3760,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Ruscombe Garden Apartments",
                 "Address": "4800 Yellowwood Ave"
             },
@@ -3523,7 +3775,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Shrine of the Sacred Heart",
                 "Address": "5800 Smith Ave"
             },
@@ -3537,7 +3790,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Elderslie United Methodist",
                 "Address": "5601 Pimlico Rd"
             },
@@ -3551,7 +3805,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Levindale Home",
                 "Address": "2434 W. Belvedere Ave"
             },
@@ -3565,7 +3820,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Pimilco Elementary",
                 "Address": "4849 Pimlico Rd"
             },
@@ -3579,7 +3835,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Edgecombe Circle Elementary",
                 "Address": "2835 Virginia Ave"
             },
@@ -3593,7 +3850,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "C.C. Jackson Recreation Center",
                 "Address": "4910 Park Heights Ave"
             },
@@ -3607,7 +3865,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Langston Hughes Elementary",
                 "Address": "5011 Arbutus Ave"
             },
@@ -3621,7 +3880,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Bel-Park Tower",
                 "Address": "3800 W Belvedere Ave"
             },
@@ -3635,7 +3895,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Bel-Park Tower",
                 "Address": "3800 W Belvedere Ave"
             },
@@ -3649,7 +3910,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Pimlico Elementary",
                 "Address": "4849 Pimlico Rd"
             },
@@ -3663,7 +3925,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwestern High",
                 "Address": "6900 Park Heights Ave"
             },
@@ -3677,7 +3940,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Cross Country Elementary",
                 "Address": "6100 Cross Country Blvd"
             },
@@ -3691,7 +3955,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Engine House No. 45",
                 "Address": "2700 Glen Ave"
             },
@@ -3705,7 +3970,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Cross Country Elementary",
                 "Address": "6100 Cross Country Blvd"
             },
@@ -3719,7 +3985,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwestern High",
                 "Address": "6900 Park Heights Ave"
             },
@@ -3733,7 +4000,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Fallstaff Elementary",
                 "Address": "3801 Fallstaff Rd"
             },
@@ -3747,7 +4015,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Fallstaff Elementary",
                 "Address": "3801 Fallstaff Rd"
             },
@@ -3761,7 +4030,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Grove Park Elementary",
                 "Address": "5545 Kennison Ave"
             },
@@ -3775,7 +4045,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "George McMechen Middle/Sr.",
                 "Address": "4411 Garrison Blvd"
             },
@@ -3789,7 +4060,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Calvin Rodwell Elementary",
                 "Address": "3501 Hillsdale Rd"
             },
@@ -3803,7 +4075,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Forest Park Senior Center",
                 "Address": "4801 Liberty Heights Av"
             },
@@ -3817,7 +4090,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Forest Park Senior Center",
                 "Address": "4801 Liberty Heights Av"
             },
@@ -3831,7 +4105,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Calvin Rodwell Elementary",
                 "Address": "3501 Hillsdale Rd"
             },
@@ -3845,7 +4120,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Liberty Recreation Center",
                 "Address": "3901 Maine Ave"
             },
@@ -3859,7 +4135,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Dickey Hill Elem/Middle",
                 "Address": "5025 Dickey Hill Rd"
             },
@@ -3873,7 +4150,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Thomas Jefferson Elementary",
                 "Address": "605 Dryden Dr"
             },
@@ -3887,7 +4165,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Thomas Jefferson Elementary",
                 "Address": "605 Dryden Dr"
             },
@@ -3901,7 +4180,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Thomas Jefferson Elementary",
                 "Address": "605 Dryden Dr"
             },
@@ -3915,7 +4195,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Edmondson Westside High",
                 "Address": "501 Athol Ave"
             },
@@ -3929,7 +4210,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Beechfield Elementary",
                 "Address": "301 S Beechfield Ave"
             },
@@ -3943,7 +4225,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Green Street Academy",
                 "Address": "201 North Bend Rd"
             },
@@ -3957,7 +4240,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Northwestern High",
                 "Address": "6900 Park Heights Ave"
             },
@@ -3971,7 +4255,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Harbor Apartments",
                 "Address": "600 Light St"
             },
@@ -3985,7 +4270,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Leith Walk Elementary",
                 "Address": "1235 Sherwood Ave"
             },
@@ -3999,7 +4285,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Baltimore Freedom Academy",
                 "Address": "1601 E Lombard St"
             },
@@ -4013,7 +4300,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Hampden Elementary",
                 "Address": "3608 Chestnut Ave"
             },
@@ -4027,7 +4315,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Steuart Hill Elem/Middle",
                 "Address": "30 S Gilmor Street"
             },
@@ -4041,7 +4330,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Brehms Lane Elementary",
                 "Address": "3536 Brehms Ln"
             },
@@ -4055,7 +4345,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Sinclair Lane Elementary",
                 "Address": "3880 Sinclair Ln"
             },
@@ -4069,7 +4360,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Jewish Community Center",
                 "Address": "5700 Park Heights Ave"
             },
@@ -4083,7 +4375,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Jewish Community Center",
                 "Address": "5700 Park Heights Ave"
             },
@@ -4097,7 +4390,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "Friendship Academy of Engineering & Technology",
                 "Address": "2500 E Northern Pkwy"
             },
@@ -4111,7 +4405,8 @@
         },
         {
             "type": "Feature",
-            "properties": { "marker-symbol": "polling-place",
+            "properties": {
+                "marker-symbol": "polling-place",
                 "Name": "East Baltimore Development, Inc.",
                 "Address": "1731 E Chase St"
             },
